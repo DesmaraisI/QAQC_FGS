@@ -1,0 +1,1251 @@
+event_pk,date,survey,site_id,ppm_c_doc,ppm_c_doc_flag,row_flag,quality_level
+3739,2013-08-19,FGS,819 OUTLET,25.86,AV,Results,Principal Investigator
+3740,2013-08-19,FGS,844 OUTLET,25.12,AV,Results,Principal Investigator
+3741,2013-08-19,FGS,693 OUTLET,8.38,AV,Results,Principal Investigator
+3742,2013-08-19,FGS,626 OUTLET,20.07,AV,Results,Principal Investigator
+3743,2013-08-19,FGS,708 OUTLET,14.27,AV,Results,Principal Investigator
+3743,2013-08-19,FGS,708 OUTLET,15.95,AV,Results,Principal Investigator
+3743,2013-08-19,FGS,708 OUTLET,13.07,AV,Results,Principal Investigator
+3746,2013-08-19,FGS,703 OUTLET,13.29,AV,Results,Principal Investigator
+3747,2013-08-19,FGS,1015 OUTLET,10.83,AV,Results,Principal Investigator
+3748,2013-09-02,FGS,819 OUTLET,18.21309075,AV,Results,Principal Investigator
+3749,2013-09-02,FGS,844 OUTLET,17.26236158,AV,Results,Principal Investigator
+3749,2013-09-02,FGS,844 OUTLET,17.09867377,AV,Results,Principal Investigator
+3749,2013-09-02,FGS,844 OUTLET,17.1285434,AV,Results,Principal Investigator
+3752,2013-09-02,FGS,693 OUTLET,11.53730781,AV,Results,Principal Investigator
+3753,2013-09-02,FGS,626 OUTLET,18.18605923,AV,Results,Principal Investigator
+3754,2013-09-02,FGS,708 OUTLET,9.420113346,AV,Results,Principal Investigator
+3755,2013-09-02,FGS,703 OUTLET,7.6477951,AV,Results,Principal Investigator
+3756,2013-09-02,FGS,1015 OUTLET,11.70176835,AV,Results,Principal Investigator
+3757,2013-09-16,FGS,626 OUTLET,13.33435943,AV,Results,Principal Investigator
+3758,2013-09-16,FGS,703 OUTLET,9.289721207,AV,Results,Principal Investigator
+3759,2013-09-16,FGS,708 OUTLET,5.919662265,AV,Results,Principal Investigator
+3760,2013-09-16,FGS,693 OUTLET,10.87713208,AV,Results,Principal Investigator
+3760,2013-09-16,FGS,693 OUTLET,10.74333582,AV,Results,Principal Investigator
+3760,2013-09-16,FGS,693 OUTLET,10.78706528,AV,Results,Principal Investigator
+3763,2013-09-16,FGS,844 OUTLET,13.98914435,AV,Results,Principal Investigator
+3764,2013-09-16,FGS,819 OUTLET,15.20221855,AV,Results,Principal Investigator
+3765,2013-09-16,FGS,1015 OUTLET,11.03771814,AV,Results,Principal Investigator
+3775,2013-10-16,FGS,1015 OUTLET,12.69,AV,Results,Principal Investigator
+3782,2013-10-16,FGS,703 OUTLET,6.05,AV,Results,Principal Investigator
+3776,2013-10-16,FGS,819 OUTLET,15.03,AV,Results,Principal Investigator
+3783,2013-10-16,FGS,693 OUTLET,10.19,AV,Results,Principal Investigator
+3776,2013-10-16,FGS,819 OUTLET,15.18,AV,Results,Principal Investigator
+3776,2013-10-16,FGS,819 OUTLET,15.33,AV,Results,Principal Investigator
+3779,2013-10-16,FGS,844 OUTLET,15.28,AV,Results,Principal Investigator
+3781,2013-10-16,FGS,708 OUTLET,10.43,AV,Results,Principal Investigator
+3780,2013-10-16,FGS,626 OUTLET,13.48,AV,Results,Principal Investigator
+3802,2014-01-09,FGS,626 OUTLET,9.7,AV,Results,Principal Investigator
+3803,2014-01-09,FGS,708 OUTLET,10.49,AV,Results,Principal Investigator
+3803,2014-01-09,FGS,708 OUTLET,NA,NA,Collected,Technicianm
+3803,2014-01-09,FGS,708 OUTLET,11.11,AV,Results,Principal Investigator
+3806,2014-01-09,FGS,703 OUTLET,7.85,AV,Results,Principal Investigator
+3807,2014-01-09,FGS,693 OUTLET,6.99,AV,Results,Principal Investigator
+3808,2014-01-09,FGS,844 OUTLET,13.82,AV,Results,Principal Investigator
+3809,2014-01-09,FGS,819 OUTLET,13.8,AV,Results,Principal Investigator
+3802,2014-01-09,FGS,626 OUTLET,9.7,AV,Results,Principal Investigator
+3803,2014-01-09,FGS,708 OUTLET,10.49,AV,Results,Principal Investigator
+3803,2014-01-09,FGS,708 OUTLET,10.77,AV,Results,Principal Investigator
+3803,2014-01-09,FGS,708 OUTLET,11.11,AV,Results,Principal Investigator
+3806,2014-01-09,FGS,703 OUTLET,7.85,AV,Results,Principal Investigator
+3807,2014-01-09,FGS,693 OUTLET,6.99,AV,Results,Principal Investigator
+3808,2014-01-09,FGS,844 OUTLET,13.82,AV,Results,Principal Investigator
+3809,2014-01-09,FGS,819 OUTLET,13.8,AV,Results,Principal Investigator
+3817,2014-01-29,FGS,819 OUTLET,10,AV,Results,Principal Investigator
+3818,2014-01-29,FGS,1015 OUTLET,12.02,AV,Results,Principal Investigator
+3810,2014-01-29,FGS,693 OUTLET,5.88,AV,Results,Principal Investigator
+3811,2014-01-29,FGS,703 OUTLET,4.96,AV,Results,Principal Investigator
+3812,2014-01-29,FGS,708 OUTLET,9.04,AV,Results,Principal Investigator
+3812,2014-01-29,FGS,708 OUTLET,8.91,AV,Results,Principal Investigator
+3812,2014-01-29,FGS,708 OUTLET,9.06,AV,Results,Principal Investigator
+3815,2014-01-29,FGS,626 OUTLET,8.18,AV,Results,Principal Investigator
+3816,2014-01-29,FGS,844 OUTLET,10.04,AV,Results,Principal Investigator
+3819,2014-02-19,FGS,1015 OUTLET,10.97,AV,Results,Principal Investigator
+3820,2014-02-19,FGS,819 OUTLET,8.81,AV,Results,Principal Investigator
+3821,2014-02-19,FGS,844 OUTLET,8.22,AV,Results,Principal Investigator
+3822,2014-02-19,FGS,693 OUTLET,5.46,AV,Results,Principal Investigator
+3823,2014-02-19,FGS,703 OUTLET,NA,NA,Not Available,Technicianm
+3823,2014-02-19,FGS,703 OUTLET,4.85,AV,Results,Principal Investigator
+3823,2014-02-19,FGS,703 OUTLET,NA,NA,Not Available,Technicianm
+3826,2014-02-19,FGS,708 OUTLET,8.15,AV,Results,Principal Investigator
+3827,2014-02-19,FGS,626 OUTLET,6.69,AV,Results,Principal Investigator
+3882,2014-05-18,FGS,1015 OUTLET,9.66,AV,Results,Principal Investigator
+3883,2014-05-18,FGS,819 OUTLET,13.75,AV,Results,Principal Investigator
+3884,2014-05-18,FGS,844 OUTLET,13.36,AV,Results,Principal Investigator
+3885,2014-05-18,FGS,693 OUTLET,6.21,AV,Results,Principal Investigator
+3886,2014-05-18,FGS,703 OUTLET,4.35,AV,Results,Principal Investigator
+3887,2014-05-18,FGS,708 OUTLET,7.6,AV,Results,Principal Investigator
+3887,2014-05-18,FGS,708 OUTLET,8.73,AV,Results,Principal Investigator
+3887,2014-05-18,FGS,708 OUTLET,7.56,AV,Results,Principal Investigator
+3890,2014-05-18,FGS,626 OUTLET,11.62,AV,Results,Principal Investigator
+3891,2014-05-29,FGS,1015 OUTLET,9.574361588,AV,Results,Principal Investigator
+3892,2014-05-29,FGS,819 OUTLET,14.9839047,AV,Results,Principal Investigator
+3893,2014-05-29,FGS,703 OUTLET,6.533497682,AV,Results,Principal Investigator
+3894,2014-05-29,FGS,708 OUTLET,7.700437923,AV,Results,Principal Investigator
+3895,2014-05-29,FGS,693 OUTLET,7.610695254,AV,Results,Principal Investigator
+3895,2014-05-29,FGS,693 OUTLET,7.127621278,AV,Results,Principal Investigator
+3895,2014-05-29,FGS,693 OUTLET,7.528606996,AV,Results,Principal Investigator
+3898,2014-05-29,FGS,844 OUTLET,14.42558009,AV,Results,Principal Investigator
+3899,2014-05-29,FGS,626 OUTLET,11.44440427,AV,Results,Principal Investigator
+3900,2014-06-08,FGS,626 OUTLET,9.464990522,AV,Results,Principal Investigator
+3901,2014-06-08,FGS,708 OUTLET,7.027202187,AV,Results,Principal Investigator
+3902,2014-06-08,FGS,703 OUTLET,3.956495472,AV,Results,Principal Investigator
+3903,2014-06-08,FGS,693 OUTLET,6.973434501,AV,Results,Principal Investigator
+3903,2014-06-08,FGS,693 OUTLET,6.892836992,AV,Results,Principal Investigator
+3903,2014-06-08,FGS,693 OUTLET,7.08223337,AV,Results,Principal Investigator
+3906,2014-06-08,FGS,844 OUTLET,11.04126035,AV,Results,Principal Investigator
+3907,2014-06-08,FGS,819 OUTLET,11.62591739,AV,Results,Principal Investigator
+3908,2014-06-08,FGS,1015 OUTLET,9.338633558,AV,Results,Principal Investigator
+3999,2014-10-15,FGS,1015 OUTLET,10.68,AV,Results,Principal Investigator
+4000,2014-10-15,FGS,626 OUTLET,16.47,AV,Results,Principal Investigator
+4001,2014-10-15,FGS,708 OUTLET,9.06,AV,Results,Principal Investigator
+4001,2014-10-15,FGS,708 OUTLET,9.48,AV,Results,Principal Investigator
+4001,2014-10-15,FGS,708 OUTLET,9.36,AV,Results,Principal Investigator
+4007,2014-10-15,FGS,703 OUTLET,8.71,AV,Results,Principal Investigator
+4004,2014-10-15,FGS,693 OUTLET,11.15,AV,Results,Principal Investigator
+4006,2014-10-15,FGS,819 OUTLET,18.06,AV,Results,Principal Investigator
+4005,2014-10-15,FGS,844 OUTLET,17.34,AV,Results,Principal Investigator
+4008,2014-11-29,FGS,626 OUTLET,9.33,AV,Results,Principal Investigator
+4009,2014-11-29,FGS,703 OUTLET,6.74,AV,Results,Principal Investigator
+4010,2014-11-29,FGS,844 OUTLET,12.42,AV,Results,Principal Investigator
+4011,2014-11-29,FGS,708 OUTLET,11.42,AV,Results,Principal Investigator
+4012,2014-11-29,FGS,1015 OUTLET,14.3,AV,Results,Principal Investigator
+4012,2014-11-29,FGS,1015 OUTLET,14.45,AV,Results,Principal Investigator
+4012,2014-11-29,FGS,1015 OUTLET,13.92,AV,Results,Principal Investigator
+4015,2014-11-29,FGS,693 OUTLET,8.14,AV,Results,Principal Investigator
+4016,2014-11-29,FGS,819 OUTLET,13.94,AV,Results,Principal Investigator
+142,2015-01-22,FGS,703 OUTLET,4.32,AV,Results,Principal Investigator
+144,2015-01-22,FGS,708 OUTLET,9.01,AV,Results,Principal Investigator
+145,2015-01-22,FGS,626 OUTLET,8.87,AV,Results,Principal Investigator
+145,2015-01-22,FGS,626 OUTLET,9.07,AV,Results,Principal Investigator
+145,2015-01-22,FGS,626 OUTLET,8.9,AV,Results,Principal Investigator
+140,2015-01-22,FGS,693 OUTLET,5.71,AV,Results,Principal Investigator
+141,2015-01-22,FGS,844 OUTLET,10.89,AV,Results,Principal Investigator
+143,2015-01-22,FGS,819 OUTLET,12.16,AV,Results,Principal Investigator
+148,2015-01-22,FGS,1015 OUTLET,0.879483791,SVD,Results,Principal Investigator
+253,2015-02-24,FGS,708 OUTLET,8.75,AV,Results,Principal Investigator
+254,2015-02-24,FGS,626 OUTLET,9.52,AV,Results,Principal Investigator
+247,2015-02-24,FGS,693 OUTLET,6.78,AV,Results,Principal Investigator
+248,2015-02-24,FGS,844 OUTLET,12.48,AV,Results,Principal Investigator
+249,2015-02-24,FGS,819 OUTLET,13.24,AV,Results,Principal Investigator
+246,2015-02-24,FGS,1015 OUTLET,12.23,AV,Results,Principal Investigator
+252,2015-02-24,FGS,703 OUTLET,5.21,AV,Results,Principal Investigator
+366,2015-03-11,FGS,693 OUTLET,6.85,AV,Results,Principal Investigator
+367,2015-03-11,FGS,844 OUTLET,13.96,AV,Results,Principal Investigator
+368,2015-03-11,FGS,819 OUTLET,14.57,AV,Results,Principal Investigator
+369,2015-03-11,FGS,1015 OUTLET,12.55,AV,Results,Principal Investigator
+363,2015-03-11,FGS,703 OUTLET,5.88,AV,Results,Principal Investigator
+364,2015-03-11,FGS,708 OUTLET,10.26,AV,Results,Principal Investigator
+365,2015-03-11,FGS,626 OUTLET,10.69,AV,Results,Principal Investigator
+663,2015-04-01,FGS,703 OUTLET,6.38,AV,Results,Principal Investigator
+664,2015-04-01,FGS,708 OUTLET,9.2,AV,Results,Principal Investigator
+669,2015-04-01,FGS,819 OUTLET,12.87,AV,Results,Principal Investigator
+668,2015-04-01,FGS,844 OUTLET,11.88,AV,Results,Principal Investigator
+667,2015-04-01,FGS,626 OUTLET,9.62,AV,Results,Principal Investigator
+662,2015-04-01,FGS,693 OUTLET,7.8,AV,Results,Principal Investigator
+670,2015-04-01,FGS,1015 OUTLET,13,AV,Results,Principal Investigator
+1017,2015-04-23,FGS,819 OUTLET,11.07,AV,Results,Principal Investigator
+1014,2015-04-23,FGS,844 OUTLET,10.27,AV,Results,Principal Investigator
+1018,2015-04-23,FGS,626 OUTLET,8.19,AV,Results,Principal Investigator
+1016,2015-04-23,FGS,693 OUTLET,6.49,AV,Results,Principal Investigator
+1015,2015-04-23,FGS,1015 OUTLET,12.12,AV,Results,Principal Investigator
+1019,2015-04-23,FGS,703 OUTLET,7.13,AV,Results,Principal Investigator
+1013,2015-04-23,FGS,708 OUTLET,9,AV,Results,Principal Investigator
+1281,2015-05-13,FGS,626 OUTLET,6.02,AV,Results,Principal Investigator
+1282,2015-05-13,FGS,693 OUTLET,4.25,AV,Results,Principal Investigator
+1280,2015-05-13,FGS,844 OUTLET,7.7,AV,Results,Principal Investigator
+1279,2015-05-13,FGS,1015 OUTLET,9.62,AV,Results,Principal Investigator
+1278,2015-05-13,FGS,708 OUTLET,6.61,AV,Results,Principal Investigator
+1277,2015-05-13,FGS,703 OUTLET,3.49,AV,Results,Principal Investigator
+1283,2015-05-13,FGS,819 OUTLET,8.24,AV,Results,Principal Investigator
+4077,2015-06-03,FGS,626 OUTLET,5.46,AV,Results,Principal Investigator
+4078,2015-06-03,FGS,693 OUTLET,3.37,AV,Results,Principal Investigator
+4079,2015-06-03,FGS,703 OUTLET,2.84,AV,Results,Principal Investigator
+4075,2015-06-03,FGS,708 OUTLET,6.61,AV,Results,Principal Investigator
+4071,2015-06-03,FGS,819 OUTLET,7.7,AV,Results,Principal Investigator
+4072,2015-06-03,FGS,844 OUTLET,7.44,AV,Results,Principal Investigator
+4073,2015-06-03,FGS,1015 OUTLET,9.4,AV,Results,Principal Investigator
+1999,2015-06-24,FGS,626 OUTLET,8.34,AV,Results,Principal Investigator
+2000,2015-06-24,FGS,693 OUTLET,2.96,AV,Results,Principal Investigator
+2001,2015-06-24,FGS,703 OUTLET,3.68,AV,Results,Principal Investigator
+2002,2015-06-24,FGS,708 OUTLET,7.14,AV,Results,Principal Investigator
+2003,2015-06-24,FGS,819 OUTLET,9.11,AV,Results,Principal Investigator
+2004,2015-06-24,FGS,844 OUTLET,8.67,AV,Results,Principal Investigator
+2005,2015-06-24,FGS,1015 OUTLET,8.54,AV,Results,Principal Investigator
+2320,2015-07-15,FGS,626 OUTLET,6.41,AV,Results,Principal Investigator
+2322,2015-07-15,FGS,693 OUTLET,3.11,AV,Results,Principal Investigator
+2317,2015-07-15,FGS,703 OUTLET,5.29,AV,Results,Principal Investigator
+2318,2015-07-15,FGS,708 OUTLET,7.63,AV,Results,Principal Investigator
+2319,2015-07-15,FGS,819 OUTLET,10.15,AV,Results,Principal Investigator
+2316,2015-07-15,FGS,844 OUTLET,9.46,AV,Results,Principal Investigator
+2321,2015-07-15,FGS,1015 OUTLET,9.4,AV,Results,Principal Investigator
+2535,2015-08-05,FGS,626 OUTLET,13.76,AV,Results,Principal Investigator
+2536,2015-08-05,FGS,693 OUTLET,4.44,AV,Results,Principal Investigator
+2537,2015-08-05,FGS,703 OUTLET,8.78,AV,Results,Principal Investigator
+2538,2015-08-05,FGS,708 OUTLET,14.56,AV,Results,Principal Investigator
+2539,2015-08-05,FGS,819 OUTLET,20.66,AV,Results,Principal Investigator
+2540,2015-08-05,FGS,844 OUTLET,20.71,AV,Results,Principal Investigator
+2541,2015-08-05,FGS,1015 OUTLET,8.34,AV,Results,Principal Investigator
+2926,2015-08-26,FGS,626 OUTLET,NA,MV,Not Available,Error
+2927,2015-08-26,FGS,693 OUTLET,NA,MV,Not Available,Error
+2928,2015-08-26,FGS,703 OUTLET,NA,MV,Not Available,Error
+2929,2015-08-26,FGS,708 OUTLET,NA,MV,Not Available,Error
+2930,2015-08-26,FGS,819 OUTLET,NA,MV,Not Available,Error
+2931,2015-08-26,FGS,844 OUTLET,NA,MV,Not Available,Error
+2932,2015-08-26,FGS,1015 OUTLET,NA,MV,Not Available,Error
+3352,2015-09-16,FGS,626 OUTLET,15.41,AV,Results,Principal Investigator
+3353,2015-09-16,FGS,693 OUTLET,11.55,AV,Results,Principal Investigator
+3354,2015-09-16,FGS,703 OUTLET,6.26,AV,Results,Principal Investigator
+3355,2015-09-16,FGS,708 OUTLET,8.42,AV,Results,Principal Investigator
+3356,2015-09-16,FGS,819 OUTLET,16.7,AV,Results,Principal Investigator
+3357,2015-09-16,FGS,844 OUTLET,15.27,AV,Results,Principal Investigator
+3358,2015-09-16,FGS,1015 OUTLET,12.61,AV,Results,Principal Investigator
+7058,2015-10-08,FGS,626 OUTLET,14.56,AV,Results,Principal Investigator
+7060,2015-10-08,FGS,693 OUTLET,13.02,AV,Results,Principal Investigator
+7059,2015-10-08,FGS,703 OUTLET,6.13,AV,Results,Principal Investigator
+7055,2015-10-08,FGS,708 OUTLET,11.67,AV,Results,Principal Investigator
+7057,2015-10-08,FGS,819 OUTLET,17.08,AV,Results,Principal Investigator
+7056,2015-10-08,FGS,844 OUTLET,16.52,AV,Results,Principal Investigator
+7061,2015-10-08,FGS,1015 OUTLET,15.14,AV,Results,Principal Investigator
+16791,2015-10-28,FGS,626 OUTLET,17.42,AV,Results,Principal Investigator
+16792,2015-10-28,FGS,693 OUTLET,12.92,AV,Results,Principal Investigator
+16793,2015-10-28,FGS,703 OUTLET,7.09,AV,Results,Principal Investigator
+16794,2015-10-28,FGS,708 OUTLET,12.33,AV,Results,Principal Investigator
+16795,2015-10-28,FGS,819 OUTLET,18.35,AV,Results,Principal Investigator
+16796,2015-10-28,FGS,844 OUTLET,16.48,AV,Results,Principal Investigator
+16797,2015-10-28,FGS,1015 OUTLET,15.76,AV,Results,Principal Investigator
+16893,2015-12-01,FGS,626 OUTLET,6.68,AV,Results,Principal Investigator
+16894,2015-12-01,FGS,693 OUTLET,7.96,AV,Results,Principal Investigator
+16895,2015-12-01,FGS,703 OUTLET,3.97,AV,Results,Principal Investigator
+16896,2015-12-01,FGS,708 OUTLET,NA,MV,Not Available,Error
+16897,2015-12-01,FGS,819 OUTLET,10.33,AV,Results,Principal Investigator
+16898,2015-12-01,FGS,844 OUTLET,9.64,AV,Results,Principal Investigator
+16899,2015-12-01,FGS,1015 OUTLET,13.57,AV,Results,Principal Investigator
+30425,2016-01-15,FGS,626 OUTLET,7.75,AV,Results,Principal Investigator
+30426,2016-01-15,FGS,693 OUTLET,6.12,AV,Results,Principal Investigator
+30427,2016-01-15,FGS,703 OUTLET,5.5,AV,Results,Principal Investigator
+30428,2016-01-15,FGS,708 OUTLET,8.96,AV,Results,Principal Investigator
+30429,2016-01-15,FGS,819 OUTLET,12.5,AV,Results,Principal Investigator
+30430,2016-01-15,FGS,844 OUTLET,11.71,AV,Results,Principal Investigator
+30431,2016-01-15,FGS,1015 OUTLET,11.43,AV,Results,Principal Investigator
+50360,2016-02-26,FGS,1015 OUTLET,10.07,AV,Results,Principal Investigator
+50361,2016-02-26,FGS,819 OUTLET,9.95,AV,Results,Principal Investigator
+50362,2016-02-26,FGS,844 OUTLET,9.15,AV,Results,Principal Investigator
+50363,2016-02-26,FGS,708 OUTLET,7.08,AV,Results,Principal Investigator
+50364,2016-02-26,FGS,703 OUTLET,3.61,AV,Results,Principal Investigator
+50365,2016-02-26,FGS,693 OUTLET,5.31,AV,Results,Principal Investigator
+50366,2016-02-26,FGS,626 OUTLET,6.8,AV,Results,Principal Investigator
+65047,2016-03-18,FGS,626 OUTLET,5.41,AV,Results,Principal Investigator
+65048,2016-03-18,FGS,693 OUTLET,4.79,AV,Results,Principal Investigator
+65049,2016-03-18,FGS,703 OUTLET,3.76,AV,Results,Principal Investigator
+65050,2016-03-18,FGS,708 OUTLET,6.52,AV,Results,Principal Investigator
+65051,2016-03-18,FGS,819 OUTLET,9.05,AV,Results,Principal Investigator
+65052,2016-03-18,FGS,844 OUTLET,8.62,AV,Results,Principal Investigator
+65053,2016-03-18,FGS,1015 OUTLET,9.74,AV,Results,Principal Investigator
+68556,2016-04-07,FGS,626 OUTLET,7.01,AV,Results,Principal Investigator
+68557,2016-04-07,FGS,693 OUTLET,5.34,AV,Results,Principal Investigator
+68558,2016-04-07,FGS,703 OUTLET,4.65,AV,Results,Principal Investigator
+68559,2016-04-07,FGS,708 OUTLET,6.78,AV,Results,Principal Investigator
+68560,2016-04-07,FGS,819 OUTLET,10.94,AV,Results,Principal Investigator
+68561,2016-04-07,FGS,844 OUTLET,10.28,AV,Results,Principal Investigator
+68562,2016-04-07,FGS,1015 OUTLET,9.23,AV,Results,Principal Investigator
+83377,2016-04-27,FGS,626 OUTLET,11.38,AV,Results,Principal Investigator
+83378,2016-04-27,FGS,693 OUTLET,6.85,AV,Results,Principal Investigator
+83379,2016-04-27,FGS,703 OUTLET,7.89,AV,Results,Principal Investigator
+83380,2016-04-27,FGS,708 OUTLET,8.11,AV,Results,Principal Investigator
+83381,2016-04-27,FGS,819 OUTLET,13.28,AV,Results,Principal Investigator
+83382,2016-04-27,FGS,844 OUTLET,13.08,AV,Results,Principal Investigator
+83383,2016-04-27,FGS,1015 OUTLET,9.94,AV,Results,Principal Investigator
+120615,2016-05-18,FGS,626 OUTLET,9.29,AV,Results,Principal Investigator
+120616,2016-05-18,FGS,693 OUTLET,6.65,AV,Results,Principal Investigator
+120617,2016-05-18,FGS,703 OUTLET,3.72,AV,Results,Principal Investigator
+120618,2016-05-18,FGS,708 OUTLET,6.98,AV,Results,Principal Investigator
+120619,2016-05-18,FGS,819 OUTLET,11.12,AV,Results,Principal Investigator
+120620,2016-05-18,FGS,844 OUTLET,10.74,AV,Results,Principal Investigator
+120621,2016-05-18,FGS,1015 OUTLET,9.7,AV,Results,Principal Investigator
+133769,2016-06-08,FGS,626 OUTLET,11.31,AV,Results,Principal Investigator
+133770,2016-06-08,FGS,693 OUTLET,7.1,AV,Results,Principal Investigator
+133771,2016-06-08,FGS,703 OUTLET,4.76,AV,Results,Principal Investigator
+133772,2016-06-08,FGS,708 OUTLET,7.34,AV,Results,Principal Investigator
+133773,2016-06-08,FGS,819 OUTLET,13.18,AV,Results,Principal Investigator
+133774,2016-06-08,FGS,844 OUTLET,12.31,AV,Results,Principal Investigator
+133775,2016-06-08,FGS,1015 OUTLET,8.68,AV,Results,Principal Investigator
+137681,2016-06-29,FGS,626 OUTLET,13.49,AV,Results,Principal Investigator
+137682,2016-06-29,FGS,693 OUTLET,9.17,AV,Results,Principal Investigator
+137683,2016-06-29,FGS,703 OUTLET,6.21,AV,Results,Principal Investigator
+137684,2016-06-29,FGS,708 OUTLET,7.83,AV,Results,Principal Investigator
+137685,2016-06-29,FGS,819 OUTLET,15.39,AV,Results,Principal Investigator
+137686,2016-06-29,FGS,844 OUTLET,14.48,AV,Results,Principal Investigator
+137687,2016-06-29,FGS,1015 OUTLET,9.55,AV,Results,Principal Investigator
+146403,2016-07-20,FGS,626 OUTLET,13.57,AV,Results,Principal Investigator
+146404,2016-07-20,FGS,693 OUTLET,10.57,AV,Results,Principal Investigator
+146405,2016-07-20,FGS,703 OUTLET,5.75,AV,Results,Principal Investigator
+146406,2016-07-20,FGS,708 OUTLET,8.51,AV,Results,Principal Investigator
+146407,2016-07-20,FGS,819 OUTLET,15.45,AV,Results,Principal Investigator
+146408,2016-07-20,FGS,844 OUTLET,14.15,AV,Results,Principal Investigator
+146409,2016-07-20,FGS,1015 OUTLET,9.7,AV,Results,Principal Investigator
+155400,2016-08-10,FGS,626 OUTLET,11.58,AV,Results,Principal Investigator
+155401,2016-08-10,FGS,693 OUTLET,9.25,AV,Results,Principal Investigator
+155402,2016-08-10,FGS,703 OUTLET,4.87,AV,Results,Principal Investigator
+155403,2016-08-10,FGS,708 OUTLET,7.99,AV,Results,Principal Investigator
+155404,2016-08-10,FGS,819 OUTLET,11.5,AV,Results,Principal Investigator
+155405,2016-08-10,FGS,844 OUTLET,12.54,AV,Results,Principal Investigator
+155406,2016-08-10,FGS,1015 OUTLET,9.59,AV,Results,Principal Investigator
+167161,2016-09-02,FGS,626 OUTLET,17.83,AV,Results,Principal Investigator
+167162,2016-09-02,FGS,693 OUTLET,12.04,AV,Results,Principal Investigator
+167163,2016-09-02,FGS,703 OUTLET,11.59,AV,Results,Principal Investigator
+167164,2016-09-02,FGS,708 OUTLET,10.94,AV,Results,Principal Investigator
+167165,2016-09-02,FGS,819 OUTLET,20.72,AV,Results,Principal Investigator
+167166,2016-09-02,FGS,844 OUTLET,20.01,AV,Results,Principal Investigator
+167167,2016-09-02,FGS,1015 OUTLET,13.53,AV,Results,Principal Investigator
+354311,2016-09-09,FGS_R,WANNOCK WR01,0.8,AV,Submited,Technicianm
+167589,2016-09-21,FGS,626 OUTLET,17.49,AV,Results,Principal Investigator
+167590,2016-09-21,FGS,693 OUTLET,13.08,AV,Results,Principal Investigator
+167591,2016-09-21,FGS,703 OUTLET,9.05,AV,Results,Principal Investigator
+167592,2016-09-21,FGS,708 OUTLET,11.99,AV,Results,Principal Investigator
+167593,2016-09-21,FGS,819 OUTLET,19.46,AV,Results,Principal Investigator
+167594,2016-09-21,FGS,844 OUTLET,18.38,AV,Results,Principal Investigator
+167595,2016-09-21,FGS,1015 OUTLET,14.5,AV,Results,Principal Investigator
+354312,2016-09-29,FGS_R,WANNOCK WR01,0.96,AV,Submited,Technicianm
+180131,2016-10-20,FGS,626 OUTLET,NA,NA,Submited,Technicianm
+180132,2016-10-20,FGS,693 OUTLET,NA,NA,Submited,Technicianm
+180133,2016-10-20,FGS,703 OUTLET,NA,NA,Submited,Technicianm
+180134,2016-10-20,FGS,708 OUTLET,NA,NA,Submited,Technicianm
+180135,2016-10-20,FGS,819 OUTLET,NA,NA,Submited,Technicianm
+180136,2016-10-20,FGS,844 OUTLET,NA,NA,Results,Technicianm
+241363,2016-10-23,FGS,1015 OUTLET,NA,NA,Submited,Technicianm
+185055,2016-11-22,FGS,693 OUTLET,7.21,AV,Results,Principal Investigator
+185054,2016-11-22,FGS,703 OUTLET,7.53,AV,Results,Principal Investigator
+185058,2016-11-22,FGS,819 OUTLET,13.76,AV,Results,Principal Investigator
+185059,2016-11-22,FGS,844 OUTLET,13.1,AV,Results,Principal Investigator
+185060,2016-11-23,FGS,626 OUTLET,9.06,AV,Results,Principal Investigator
+185061,2016-11-23,FGS,708 OUTLET,10.37,AV,Results,Principal Investigator
+185062,2016-11-23,FGS,1015 OUTLET,12.72,AV,Results,Principal Investigator
+239070,2017-01-20,FGS,626 OUTLET,5.85,AV,Results,Principal Investigator
+239071,2017-01-20,FGS,693 OUTLET,4.9,AV,Results,Principal Investigator
+239072,2017-01-20,FGS,703 OUTLET,5.23,AV,Results,Principal Investigator
+239073,2017-01-20,FGS,708 OUTLET,6.91,AV,Results,Principal Investigator
+239074,2017-01-20,FGS,819 OUTLET,9.08,AV,Results,Principal Investigator
+239075,2017-01-20,FGS,844 OUTLET,8.69,AV,Results,Principal Investigator
+239076,2017-01-20,FGS,1015 OUTLET,10.23,AV,Results,Principal Investigator
+251321,2017-02-24,FGS,626 OUTLET,7.58,AV,Results,Principal Investigator
+251322,2017-02-24,FGS,693 OUTLET,5.22,AV,Results,Principal Investigator
+251323,2017-02-24,FGS,703 OUTLET,5.52,AV,Results,Principal Investigator
+251324,2017-02-24,FGS,708 OUTLET,7.2,AV,Results,Principal Investigator
+251325,2017-02-24,FGS,819 OUTLET,9.92,AV,Results,Principal Investigator
+251326,2017-02-24,FGS,844 OUTLET,9.73,AV,Results,Principal Investigator
+251327,2017-02-24,FGS,1015 OUTLET,10.05,AV,Results,Principal Investigator
+254331,2017-03-15,FGS,626 OUTLET,NA,NA,Submited,Technicianm
+254333,2017-03-15,FGS,703 OUTLET,NA,NA,Submited,Technicianm
+254334,2017-03-15,FGS,708 OUTLET,NA,NA,Submited,Technicianm
+254335,2017-03-15,FGS,819 OUTLET,NA,NA,Submited,Technicianm
+254336,2017-03-15,FGS,844 OUTLET,NA,NA,Results,Technicianm
+254337,2017-03-15,FGS,1015 OUTLET,NA,NA,Submited,Technicianm
+354313,2017-03-18,FGS_R,WANNOCK WR01,1.19,AV,Results,Technicianm
+487343,2017-03-18,FGS_R,WANNOCK WR01,1.3,SVC,Results,Technicianm
+353520,2017-03-19,FGS,693 OUTLET,NA,NA,Submited,Technicianm
+255253,2017-04-01,FGS_Y,KOEYE KR01,3.71,AV,Results,Technicianm
+255252,2017-04-01,FGS_Y,KOEYE KR02,3.53,AV,Results,Technicianm
+354314,2017-04-10,FGS_R,WANNOCK WR01,NA,NA,Not Available,Technicianm
+354314,2017-04-10,FGS_R,WANNOCK WR01,NA,NA,Not Available,Technicianm
+255288,2017-04-12,FGS,626 OUTLET,6.54,AV,Results,Principal Investigator
+255289,2017-04-12,FGS,693 OUTLET,4.54,AV,Results,Principal Investigator
+255290,2017-04-12,FGS,703 OUTLET,3.59,AV,Results,Principal Investigator
+255291,2017-04-12,FGS,708 OUTLET,6.08,AV,Results,Principal Investigator
+255292,2017-04-12,FGS,819 OUTLET,10.72,AV,Results,Principal Investigator
+255293,2017-04-12,FGS,844 OUTLET,10.32,AV,Results,Principal Investigator
+255294,2017-04-12,FGS,1015 OUTLET,9.1,AV,Results,Principal Investigator
+260832,2017-04-24,FGS_Y,KOEYE KR01,3.15,AV,Results,Technicianm
+294510,2017-05-01,FGS_B,TEAQUAHAN TEAQ2,1.05,AV,Results,Technicianm
+294509,2017-05-01,FGS_B,TEAQUAHAN TEAQ1,1.18,AV,Results,Technicianm
+354316,2017-05-01,FGS_R,WANNOCK WR01,1.58,AV,Results,Technicianm
+354316,2017-05-01,FGS_R,WANNOCK WR01,1.5,AV,Results,Technicianm
+294513,2017-05-02,FGS_B,HOMATHKO_TRIB T5KM1,1.93,AV,Results,Technicianm
+294515,2017-05-02,FGS_B,HOMATHKO HOMA1,1.53,SVC,Results,Principal Investigator
+294514,2017-05-02,FGS_B,CUMSACK CMSK1,2.18,AV,Results,Technicianm
+294512,2017-05-02,FGS_B,SOUTHGATE SGTE1,1.23,AV,Results,Principal Investigator
+294536,2017-05-03,FGS_B,HOMATHKO HOMA1,1.45,AV,Results,Principal Investigator
+294535,2017-05-03,FGS_B,CAMPCREEK WATERINTAKE,1.68,AV,Results,Technicianm
+294538,2017-05-04,FGS_B,HYACINTHE HYAC1,2.17,AV,Results,Technicianm
+280616,2017-05-07,FGS,626 OUTLET,9.82,AV,Results,Principal Investigator
+280617,2017-05-07,FGS,693 OUTLET,6.41,AV,Results,Principal Investigator
+280618,2017-05-07,FGS,703 OUTLET,5.35,AV,Results,Principal Investigator
+280619,2017-05-07,FGS,708 OUTLET,6.97,AV,Results,Principal Investigator
+280620,2017-05-07,FGS,819 OUTLET,10.62,AV,Results,Principal Investigator
+280621,2017-05-07,FGS,844 OUTLET,8.8,AV,Results,Principal Investigator
+280622,2017-05-07,FGS,1015 OUTLET,8.92,AV,Results,Principal Investigator
+293033,2017-05-11,FGS_Y,KOEYE KR_TRIB,7.84,AV,Results,Technicianm
+293032,2017-05-11,FGS_Y,KOEYE KR01,3.57,AV,Results,Technicianm
+293724,2017-05-20,FGS_Y,KOEYE KR01,3.29,AV,Results,Technicianm
+354318,2017-05-22,FGS_R,WANNOCK WR01,1.7,AV,Results,Technicianm
+301473,2017-05-24,FGS,626 OUTLET,10.89,AV,Results,Principal Investigator
+301474,2017-05-24,FGS,693 OUTLET,6.7,AV,Results,Principal Investigator
+301475,2017-05-24,FGS,703 OUTLET,5.28,AV,Results,Principal Investigator
+301476,2017-05-24,FGS,708 OUTLET,9.84,AV,Results,Principal Investigator
+301477,2017-05-24,FGS,819 OUTLET,14.83,AV,Results,Principal Investigator
+301478,2017-05-24,FGS,844 OUTLET,14.02,AV,Results,Principal Investigator
+301479,2017-05-24,FGS,1015 OUTLET,10.13,AV,Results,Principal Investigator
+294434,2017-06-01,FGS_Y,KOEYE KR01,5.5,AV,Results,Technicianm
+310997,2017-06-08,FGS_B,HOMATHKO HOMA1,1.25,AV,Results,Principal Investigator
+300521,2017-06-11,FGS_R,WANNOCK WR01,1.937375,AV,Results,Technicianm
+301492,2017-06-14,FGS,626 OUTLET,11.0038203333333,AV,Results,Principal Investigator
+301493,2017-06-14,FGS,693 OUTLET,8.56261041666667,AV,Results,Principal Investigator
+301494,2017-06-14,FGS,703 OUTLET,5.32425875,AV,Results,Principal Investigator
+301495,2017-06-14,FGS,708 OUTLET,8.47548725,AV,Results,Principal Investigator
+301496,2017-06-14,FGS,819 OUTLET,14.2958314166667,AV,Results,Principal Investigator
+301497,2017-06-14,FGS,844 OUTLET,13.3560284166667,AV,Results,Principal Investigator
+301498,2017-06-14,FGS,1015 OUTLET,10.0977159166667,AV,Results,Principal Investigator
+306203,2017-06-26,FGS_Y,KOEYE KR01,3.69,AV,Results,Technicianm
+354320,2017-07-03,FGS_R,WANNOCK WR01,0.97,AV,Results,Technicianm
+309242,2017-07-05,FGS,626 OUTLET,13.56,AV,Results,Principal Investigator
+309243,2017-07-05,FGS,693 OUTLET,8.46,AV,Results,Principal Investigator
+309244,2017-07-05,FGS,703 OUTLET,6.17,AV,Results,Principal Investigator
+309245,2017-07-05,FGS,708 OUTLET,9.9,AV,Results,Principal Investigator
+309246,2017-07-05,FGS,819 OUTLET,14.68,AV,Results,Principal Investigator
+309247,2017-07-05,FGS,844 OUTLET,14.31,AV,Results,Principal Investigator
+309248,2017-07-05,FGS,1015 OUTLET,9.61,AV,Results,Principal Investigator
+311708,2017-07-14,FGS_Y,KOEYE KR01,3.42,AV,Results,Technicianm
+312445,2017-07-21,FGS_B,HYACINTHE HYAC1,1.88,AV,Results,Technicianm
+354321,2017-07-23,FGS_R,WANNOCK WR01,NA,NA,Not Available,Technicianm
+313696,2017-07-30,FGS,626 OUTLET,10.9,AV,Results,Principal Investigator
+313694,2017-07-30,FGS,693 OUTLET,7.52,AV,Results,Principal Investigator
+313698,2017-07-30,FGS,703 OUTLET,7.09,AV,Results,Principal Investigator
+313693,2017-07-30,FGS,708 OUTLET,7.98,AV,Results,Principal Investigator
+313697,2017-07-30,FGS,819 OUTLET,12.25,AV,Results,Principal Investigator
+313695,2017-07-30,FGS,844 OUTLET,10.97,AV,Results,Principal Investigator
+313699,2017-07-30,FGS,1015 OUTLET,8.75,AV,Results,Principal Investigator
+320831,2017-08-08,FGS_Y,KOEYE KR01,3.63,AV,Results,Technicianm
+326010,2017-08-10,FGS_R,WANNOCK WR01,1,AV,Results,Technicianm
+317991,2017-08-16,FGS,626 OUTLET,16.7,AV,Results,Principal Investigator
+317992,2017-08-16,FGS,693 OUTLET,8.18,AV,Results,Principal Investigator
+317993,2017-08-16,FGS,703 OUTLET,6.26,AV,Results,Principal Investigator
+317994,2017-08-16,FGS,708 OUTLET,7.91,AV,Results,Principal Investigator
+317995,2017-08-16,FGS,819 OUTLET,13.62,AV,Results,Principal Investigator
+317996,2017-08-16,FGS,844 OUTLET,13.68,AV,Results,Principal Investigator
+317997,2017-08-16,FGS,1015 OUTLET,9.03,AV,Results,Principal Investigator
+320911,2017-08-24,FGS_B,HOMATHKO HOMA1,0.3,AV,Results,Principal Investigator
+320912,2017-08-24,FGS_B,CAMPCREEK WATERINTAKE,0.21,AV,Results,Technicianm
+320913,2017-08-26,FGS_B,HYACINTHE HYAC1,2.1,AV,Results,Technicianm
+320914,2017-08-26,FGS_B,DREW DREW1,6.88,SVC,Results,Technicianm
+325553,2017-08-30,FGS_Y,KOEYE KR01,4.71,AV,Results,Technicianm
+336999,2017-09-07,FGS_R,WANNOCK WR01,0.99,AV,Results,Technicianm
+337000,2017-09-09,FGS,626 OUTLET,19.49,AV,Results,Principal Investigator
+337001,2017-09-09,FGS,693 OUTLET,10.97,AV,Results,Principal Investigator
+337002,2017-09-09,FGS,703 OUTLET,7.5,AV,Results,Principal Investigator
+337003,2017-09-09,FGS,708 OUTLET,9.37,AV,Results,Principal Investigator
+337004,2017-09-09,FGS,819 OUTLET,18.31,AV,Results,Principal Investigator
+337005,2017-09-09,FGS,844 OUTLET,16.33,AV,Results,Principal Investigator
+337006,2017-09-09,FGS,1015 OUTLET,10.59,AV,Results,Principal Investigator
+342129,2017-09-20,FGS_Y,KOEYE KR01,4.92,AV,Results,Technicianm
+354325,2017-09-29,FGS_R,WANNOCK WR01,1.27,AV,Results,Technicianm
+345806,2017-09-30,FGS,626 OUTLET,17.35,AV,Results,Principal Investigator
+345807,2017-09-30,FGS,693 OUTLET,11.9,AV,Results,Principal Investigator
+345808,2017-09-30,FGS,703 OUTLET,8.84,AV,Results,Principal Investigator
+345809,2017-09-30,FGS,708 OUTLET,12.76,AV,Results,Principal Investigator
+345810,2017-09-30,FGS,819 OUTLET,19.76,AV,Results,Principal Investigator
+345811,2017-09-30,FGS,844 OUTLET,19.33,AV,Results,Principal Investigator
+345812,2017-09-30,FGS,1015 OUTLET,12.26,AV,Results,Principal Investigator
+348354,2017-10-04,FGS_B,SOUTHGATE SGTE1,0.17,AV,Results,Principal Investigator
+348364,2017-10-04,FGS_B,MELLERSH MELR1,0.27,AV,Results,Technicianm
+348352,2017-10-04,FGS_B,SOUTHGATE SGTE2,0.19,AV,Results,Principal Investigator
+348358,2017-10-04,FGS_B,HOMATHKO HOMA1,0.23,AV,Results,Principal Investigator
+348359,2017-10-04,FGS_B,BEAR BEAR1,NA,MV,Not Available,Technicianm
+348360,2017-10-04,FGS_B,PARADISE PDSE1,0.74,AV,Results,Technicianm
+348351,2017-10-05,FGS_B,HOMATHKO HOMA3,0.25,AV,Results,Principal Investigator
+348356,2017-10-05,FGS_B,HOMATHKO HOMA1,0.24,AV,Results,Principal Investigator
+348355,2017-10-05,FGS_B,HOMATHKO HOMA3,0.23,AV,Results,Principal Investigator
+3783068,2017-10-05,FGS_B,HOMATHKO HOMA2,0.24,AV,Results,Principal Investigator
+348361,2017-10-05,FGS_B,CAMPCREEK WATERINTAKE,0.17,AV,Results,Technicianm
+3752424,2017-10-05,FGS_B,HOMATHKO HOMA2,0.22,AV,Results,Principal Investigator
+348357,2017-10-06,FGS_B,DREW DREW1,5.49,AV,Results,Technicianm
+348362,2017-10-06,FGS_B,HYACINTHE HYAC1,2.12,AV,Results,Technicianm
+348962,2017-10-11,FGS_Y,KOEYE KR01,4.5,AV,Results,Technicianm
+354759,2017-10-14,FGS_R,WANNOCK WR01,NA,NA,Not Available,Technicianm
+350675,2017-10-15,FGS,626 OUTLET,18.46,AV,Results,Principal Investigator
+350677,2017-10-15,FGS,693 OUTLET,11.36,AV,Results,Principal Investigator
+350676,2017-10-15,FGS,703 OUTLET,10.43,AV,Results,Principal Investigator
+350678,2017-10-15,FGS,708 OUTLET,15.53,AV,Results,Principal Investigator
+350679,2017-10-15,FGS,819 OUTLET,22.92,AV,Results,Principal Investigator
+350681,2017-10-15,FGS,844 OUTLET,20.47,AV,Results,Principal Investigator
+350680,2017-10-15,FGS,1015 OUTLET,14.38,AV,Results,Principal Investigator
+353496,2017-11-09,FGS_B,HOMATHKO HOMA3,0.92,AV,Results,Principal Investigator
+353490,2017-11-09,FGS_B,CAMPCREEK WATERINTAKE,0.77,AV,Results,Technicianm
+353492,2017-11-09,FGS_B,HOMATHKO HOMA1,0.94,SVC,Results,Principal Investigator
+353491,2017-11-09,FGS_B,HOMATHKO HOMA1,1.66,SVC,Results,Principal Investigator
+353495,2017-11-09,FGS_B,HOMATHKO HOMA3,1.9,AV,Results,Principal Investigator
+353494,2017-11-09,FGS_B,HOMATHKO HOMA3,0.68,AV,Results,Principal Investigator
+353493,2017-11-09,FGS_B,HOMATHKO HOMA1,0.63,SVC,Results,Principal Investigator
+353497,2017-11-14,FGS_B,HYACINTHE HYAC1,3.88,AV,Results,Technicianm
+369464,2017-12-02,FGS,626 OUTLET,6.1900294365,AV,Results,Principal Investigator
+369465,2017-12-02,FGS,693 OUTLET,5.4744417,AV,Results,Principal Investigator
+369466,2017-12-02,FGS,703 OUTLET,4.3915851,AV,Results,Principal Investigator
+369468,2017-12-02,FGS,819 OUTLET,NA,NA,Submited,Technicianm
+369469,2017-12-02,FGS,844 OUTLET,8.1403744905,AV,Results,Principal Investigator
+369470,2017-12-02,FGS,1015 OUTLET,12.334338261,AV,Results,Principal Investigator
+360861,2017-12-02,FGS_Y,KOEYE KR01,NA,MV,Collected,Technicianm
+369467,2017-12-07,FGS,708 OUTLET,8.5175695395,AV,Results,Principal Investigator
+364876,2018-01-11,FGS_Y,KOEYE KR01,4.28,AV,Results,Technicianm
+364910,2018-01-13,FGS,626 OUTLET,9.26,AV,Results,Principal Investigator
+364911,2018-01-13,FGS,693 OUTLET,5.98,AV,Results,Principal Investigator
+364912,2018-01-13,FGS,703 OUTLET,7.34,AV,Results,Principal Investigator
+364913,2018-01-13,FGS,708 OUTLET,8.76,AV,Results,Principal Investigator
+364914,2018-01-13,FGS,819 OUTLET,11.77,AV,Results,Principal Investigator
+364915,2018-01-13,FGS,844 OUTLET,11.89,AV,Results,Principal Investigator
+364916,2018-01-13,FGS,1015 OUTLET,12.06,AV,Results,Principal Investigator
+366675,2018-01-26,FGS_B,HOMATHKO HOMA1,1.07,AV,Results,Technicianm
+366674,2018-01-26,FGS_B,CAMPCREEK WATERINTAKE,1.06,AV,Results,Technicianm
+366677,2018-01-26,FGS_B,HOMATHKO HOMA1,1.05,AV,Results,Technicianm
+366676,2018-01-26,FGS_B,HOMATHKO HOMA1,1.01,AV,Results,Technicianm
+366678,2018-01-29,FGS_B,HYACINTHE HYAC1,2.41,AV,Results,Technicianm
+369430,2018-02-17,FGS,626 OUTLET,6.72,AV,Results,Principal Investigator
+369431,2018-02-17,FGS,693 OUTLET,4.88,AV,Results,Principal Investigator
+369432,2018-02-17,FGS,703 OUTLET,6.04,AV,Results,Principal Investigator
+369433,2018-02-17,FGS,708 OUTLET,7.32,AV,Results,Principal Investigator
+369434,2018-02-17,FGS,819 OUTLET,10.37,AV,Results,Principal Investigator
+369435,2018-02-17,FGS,844 OUTLET,10.1,AV,Results,Principal Investigator
+369436,2018-02-17,FGS,1015 OUTLET,10.82,AV,Results,Principal Investigator
+369569,2018-02-25,FGS_R,WANNOCK WR01,1.32,AV,Results,Technicianm
+369569,2018-02-25,FGS_R,WANNOCK WR01,1.41,AV,Results,Technicianm
+371424,2018-02-26,FGS_Y,KOEYE KR01,3.84,AV,Results,Technicianm
+474964,2018-03-09,FGS_B,HOMATHKO HOMA1,0.71,SVC,Results,Technicianm
+474965,2018-03-09,FGS_B,HOMATHKO HOMA1,0.7,AV,Results,Technicianm
+474963,2018-03-09,FGS_B,HOMATHKO HOMA1,0.73,SVC,Results,Technicianm
+474962,2018-03-09,FGS_B,CAMPCREEK WATERINTAKE,0.66,AV,Results,Technicianm
+373390,2018-03-14,FGS_B,HYACINTHE HYAC1,1.92,AV,Results,Technicianm
+373963,2018-03-21,FGS_R,26812 OUTLET,8.82,AV,Results,Technicianm
+373968,2018-03-21,FGS_R,20718 OUTLET,2.98,AV,Results,Technicianm
+373960,2018-03-21,FGS_R,20954 OUTLET,9.39,AV,Results,Technicianm
+373964,2018-03-21,FGS_R,20940 OUTLET,4.5,AV,Results,Technicianm
+373962,2018-03-21,FGS_R,20947 OUTLET,9.12,AV,Results,Technicianm
+373965,2018-03-21,FGS_R,20938 OUTLET,9.42,AV,Results,Technicianm
+373967,2018-03-21,FGS_R,20726 OUTLET,8.35,AV,Results,Technicianm
+373969,2018-03-21,FGS_R,20720 OUTLET,6.15,AV,Results,Technicianm
+373961,2018-03-21,FGS_R,20952 OUTLET,7.81,AV,Results,Technicianm
+373966,2018-03-21,FGS_R,20727 OUTLET,5.56,AV,Results,Technicianm
+373959,2018-03-21,FGS_R,20980 OUTLET,6.92,AV,Results,Technicianm
+373971,2018-03-22,FGS_R,20642 OUTLET,12.72,AV,Results,Technicianm
+373977,2018-03-22,FGS_R,20760 OUTLET,6.1,AV,Results,Technicianm
+373974,2018-03-22,FGS_R,20747 OUTLET,4.07,AV,Results,Technicianm
+373970,2018-03-22,FGS_R,20636 OUTLET,12.08,AV,Results,Technicianm
+373973,2018-03-22,FGS_R,20741 OUTLET,3.2,AV,Results,Technicianm
+373972,2018-03-22,FGS_R,20754 OUTLET,4.94,AV,Results,Technicianm
+373976,2018-03-22,FGS_R,20623 OUTLET,11.98,AV,Results,Technicianm
+373975,2018-03-22,FGS_R,20643 OUTLET,12.43,AV,Results,Technicianm
+374066,2018-03-24,FGS_Y,KOEYE KR01,3.71,AV,Results,Technicianm
+374695,2018-03-25,FGS,626 OUTLET,7.68,AV,Results,Principal Investigator
+374696,2018-03-25,FGS,693 OUTLET,4.91,AV,Results,Principal Investigator
+374697,2018-03-25,FGS,703 OUTLET,9.39,AV,Results,Principal Investigator
+374698,2018-03-25,FGS,708 OUTLET,7.69,AV,Results,Principal Investigator
+374699,2018-03-25,FGS,819 OUTLET,11.72,AV,Results,Principal Investigator
+374700,2018-03-25,FGS,844 OUTLET,11.32,AV,Results,Principal Investigator
+374701,2018-03-25,FGS,1015 OUTLET,11.45,AV,Results,Principal Investigator
+375148,2018-04-01,FGS_R,WANNOCK WR01,1.5,AV,Results,Technicianm
+376733,2018-04-04,FGS_B,4968 OUTLET,3.12,AV,Results,Technicianm
+376730,2018-04-04,FGS_B,CAMPCREEK WATERINTAKE,0.9,AV,Results,Technicianm
+376729,2018-04-04,FGS_B,HOMATHKO HOMA1,1.06,AV,Results,Technicianm
+376726,2018-04-04,FGS_B,4914 OUTLET,0.67,AV,Results,Technicianm
+376731,2018-04-04,FGS_B,4889 OUTLET,1.02,AV,Results,Technicianm
+376727,2018-04-04,FGS_B,MELLERSH MELR1,0.97,AV,Results,Technicianm
+376728,2018-04-04,FGS_B,4848 OUTLET,1.36,AV,Results,Technicianm
+376732,2018-04-04,FGS_B,4809 OUTLET,2.35,AV,Results,Technicianm
+376722,2018-04-05,FGS_B,4745 OUTLET,3.09,AV,Results,Technicianm
+376725,2018-04-05,FGS_B,9265 OUTLET,5.25,AV,Results,Technicianm
+3780869,2018-04-05,FGS_B,8405 OUTLET,2.59,AV,Results,Technicianm
+376724,2018-04-05,FGS_B,9245 OUTLET,2.96,AV,Results,Technicianm
+376723,2018-04-05,FGS_B,9572 OUTLET,4.42,AV,Results,Technicianm
+376721,2018-04-05,FGS_B,4767 OUTLET,1.29,AV,Results,Technicianm
+376799,2018-04-06,FGS_B,HYACINTHE HYAC1,2.98,AV,Results,Technicianm
+377537,2018-04-10,FGS_R,703 OUTLET,3.75,AV,Results,Technicianm
+377538,2018-04-10,FGS_R,708 OUTLET,6.76,AV,Results,Technicianm
+377536,2018-04-10,FGS_R,819 OUTLET,9.8,AV,Results,Technicianm
+377597,2018-04-11,FGS_R,20643 OUTLET,10.97,AV,Results,Technicianm
+377599,2018-04-11,FGS_R,20718 OUTLET,4.23,AV,Results,Technicianm
+377607,2018-04-11,FGS_R,20623 OUTLET,10.99,AV,Results,Technicianm
+377598,2018-04-11,FGS_R,20642 OUTLET,9.04,AV,Results,Technicianm
+377596,2018-04-11,FGS_R,20741 OUTLET,3.64,AV,Results,Technicianm
+377601,2018-04-11,FGS_R,20720 OUTLET,4.67,AV,Results,Technicianm
+377606,2018-04-11,FGS_R,20612 OUTLET,10.12,AV,Results,Technicianm
+377603,2018-04-11,FGS_R,20940 OUTLET,4.84,AV,Results,Technicianm
+377602,2018-04-11,FGS_R,20938 OUTLET,9.61,AV,Results,Technicianm
+377600,2018-04-11,FGS_R,20754 OUTLET,4.07,AV,Results,Technicianm
+377595,2018-04-11,FGS_R,20747 OUTLET,3.57,AV,Results,Technicianm
+377604,2018-04-11,FGS_R,20615 OUTLET,15.46,AV,Results,Technicianm
+377605,2018-04-11,FGS_R,20727 OUTLET,5.31,AV,Results,Technicianm
+377586,2018-04-12,FGS_R,26812 OUTLET,9.24,AV,Results,Technicianm
+377588,2018-04-12,FGS_R,20952 OUTLET,8.27,AV,Results,Technicianm
+377587,2018-04-12,FGS_R,20947 OUTLET,6.52,AV,Results,Technicianm
+377589,2018-04-12,FGS_R,20954 OUTLET,9.49,AV,Results,Technicianm
+377590,2018-04-14,FGS_Y,KOEYE KR01,4.74,AV,Results,Technicianm
+377987,2018-04-16,FGS_R,WANNOCK WR01,1.4,SVC,Results,Technicianm
+408159,2018-04-16,FGS_R,WANNOCK WR03,2.99,AV,Results,Technicianm
+377986,2018-04-16,FGS_R,20771K OUTLET,1.91,AV,Results,Technicianm
+379232,2018-04-23,FGS,626 OUTLET,7.66,AV,Results,Principal Investigator
+379233,2018-04-23,FGS,693 OUTLET,4.69,AV,Results,Principal Investigator
+379234,2018-04-23,FGS,703 OUTLET,3.97,AV,Results,Principal Investigator
+379235,2018-04-23,FGS,708 OUTLET,6.87,AV,Results,Principal Investigator
+379236,2018-04-23,FGS,819 OUTLET,10.62,AV,Results,Principal Investigator
+379237,2018-04-23,FGS,844 OUTLET,10.28,AV,Results,Principal Investigator
+379238,2018-04-23,FGS,1015 OUTLET,9.39,AV,Results,Principal Investigator
+420087,2018-04-26,FGS_R,WANNOCK WR01,1.59,AV,Results,Technicianm
+379381,2018-04-30,FGS_B,TEAQUAHAN TEAQ2,1.08,AV,Results,Technicianm
+379383,2018-04-30,FGS_B,CAMPCREEK WATERINTAKE,1.27,AV,Results,Technicianm
+379382,2018-04-30,FGS_B,HOMATHKO HOMA1,2.04,AV,Results,Technicianm
+379384,2018-04-30,FGS_B,SOUTHGATE SGTE3,1.85,AV,Results,Technicianm
+379385,2018-04-30,FGS_B,HOMATHKO HOMA3,2.06,AV,Results,Technicianm
+379675,2018-05-02,FGS_B,HYACINTHE HYAC1,1.69,AV,Results,Technicianm
+379674,2018-05-02,FGS_B,4829 OUTLET,0.51,AV,Results,Technicianm
+379667,2018-05-02,FGS_B,4914 OUTLET,0.82,AV,Results,Technicianm
+379670,2018-05-02,FGS_B,4968 OUTLET,3.82,AV,Results,Technicianm
+379673,2018-05-02,FGS_B,4809 OUTLET,2.88,AV,Results,Technicianm
+379671,2018-05-02,FGS_B,4805 OUTLET,2.44,AV,Results,Technicianm
+379668,2018-05-02,FGS_B,4889 OUTLET,1.49,AV,Results,Technicianm
+379669,2018-05-02,FGS_B,MELLERSH MELR1,1.34,AV,Results,Technicianm
+379672,2018-05-02,FGS_B,PARADISE PDSE1,1.9,AV,Results,Technicianm
+379666,2018-05-02,FGS_B,4848 OUTLET,1.67,AV,Results,Technicianm
+380264,2018-05-03,FGS_B,4767 OUTLET,1.6,AV,Results,Technicianm
+380270,2018-05-03,FGS_B,8405 OUTLET,2.04,AV,Results,Technicianm
+380265,2018-05-03,FGS_B,5005 OUTLET,3.7,AV,Results,Technicianm
+380267,2018-05-03,FGS_B,9257 OUTLET,1.84,AV,Results,Technicianm
+380271,2018-05-03,FGS_B,9572 OUTLET,3.9,AV,Results,Technicianm
+380269,2018-05-03,FGS_B,9265 OUTLET,5.27,AV,Results,Technicianm
+380266,2018-05-03,FGS_B,4745 OUTLET,4.33,AV,Results,Technicianm
+380268,2018-05-03,FGS_B,8395 OUTLET,1.04,AV,Results,Technicianm
+387761,2018-05-15,FGS_R,703 OUTLET,2.87,AV,Results,Technicianm
+387763,2018-05-15,FGS_R,819 OUTLET,9.98,AV,Results,Technicianm
+387762,2018-05-15,FGS_R,708 OUTLET,6.69,AV,Results,Technicianm
+387764,2018-05-15,FGS_Y,KOEYE KR01,4.94,AV,Results,Technicianm
+388062,2018-05-16,FGS_R,20938 OUTLET,7.79,AV,Results,Technicianm
+388038,2018-05-16,FGS_R,20720 OUTLET,2.09,AV,Results,Technicianm
+388033,2018-05-16,FGS_R,26812 OUTLET,7.11,AV,Results,Technicianm
+388030,2018-05-16,FGS_R,20954 OUTLET,8.03,AV,Results,Technicianm
+388032,2018-05-16,FGS_R,20947 OUTLET,5,AV,Results,Technicianm
+388034,2018-05-16,FGS_R,20940 OUTLET,2,AV,Results,Technicianm
+388037,2018-05-16,FGS_R,20726 OUTLET,6.81,AV,Results,Technicianm
+388031,2018-05-16,FGS_R,20952 OUTLET,6.58,AV,Results,Technicianm
+388039,2018-05-16,FGS_R,20718 OUTLET,2.02,AV,Results,Technicianm
+388035,2018-05-16,FGS_R,20727 OUTLET,1.86,AV,Results,Technicianm
+388027,2018-05-17,FGS_R,20747 OUTLET,1.39,AV,Results,Technicianm
+388023,2018-05-17,FGS_R,20623 OUTLET,9.76,AV,Results,Technicianm
+388028,2018-05-17,FGS_R,20722 OUTLET,2.77,AV,Results,Technicianm
+388021,2018-05-17,FGS_R,20612 OUTLET,17.18,AV,Results,Technicianm
+388026,2018-05-17,FGS_R,20771C OUTLET,0.73,AV,Results,Technicianm
+388022,2018-05-17,FGS_R,20613 OUTLET,7.41,AV,Results,Technicianm
+388025,2018-05-17,FGS_R,20771K OUTLET,0.67,AV,Results,Technicianm
+388024,2018-05-17,FGS_R,20643 OUTLET,8.73,AV,Results,Technicianm
+388029,2018-05-18,FGS_R,20741 OUTLET,1.45,AV,Results,Technicianm
+405305,2018-05-28,FGS,626 OUTLET,11.55,AV,Results,Principal Investigator
+405306,2018-05-28,FGS,693 OUTLET,5.26,AV,Results,Principal Investigator
+405307,2018-05-28,FGS,703 OUTLET,8.15,AV,Results,Principal Investigator
+405308,2018-05-28,FGS,708 OUTLET,11.34,AV,Results,Principal Investigator
+405309,2018-05-28,FGS,819 OUTLET,15.31,AV,Results,Principal Investigator
+405310,2018-05-28,FGS,844 OUTLET,14.15,AV,Results,Principal Investigator
+405311,2018-05-28,FGS,1015 OUTLET,9.84,AV,Results,Principal Investigator
+406224,2018-05-29,FGS_R,WANNOCK WR01,1.61,AV,Results,Technicianm
+415229,2018-05-31,FGS_B,HYACINTHE HYAC1,2.29,AV,Results,Technicianm
+415230,2018-05-31,FGS_B,8407 OUTLET,0.75,AV,Results,Technicianm
+406237,2018-06-02,FGS_B,SOUTHGATE SGTE3,0.43,AV,Results,Technicianm
+406236,2018-06-02,FGS_B,CAMPCREEK WATERINTAKE,0.89,AV,Results,Technicianm
+406235,2018-06-02,FGS_B,HOMATHKO HOMA1,0.74,AV,Results,Technicianm
+406238,2018-06-02,FGS_B,TEAQUAHAN TEAQ2,1.03,AV,Results,Technicianm
+406234,2018-06-02,FGS_B,HOMATHKO HOMA3,0.58,AV,Results,Technicianm
+416039,2018-06-08,FGS_F,POISON OUTLET,1.37,AV,Results,Technicianm
+416040,2018-06-09,FGS_F,MCALPIN OUTLET,1.55,AV,Results,Technicianm
+407718,2018-06-09,FGS_R,20741 OUTLET,3.48,AV,Results,Technicianm
+407716,2018-06-09,FGS_R,20727 OUTLET,6.79,AV,Results,Technicianm
+407719,2018-06-09,FGS_R,20747 OUTLET,3.49,AV,Results,Technicianm
+407714,2018-06-09,FGS_R,20940 OUTLET,5.37,AV,Results,Technicianm
+407711,2018-06-09,FGS_R,20954 OUTLET,10.1,AV,Results,Technicianm
+407713,2018-06-09,FGS_R,26812 OUTLET,9.97,AV,Results,Technicianm
+407715,2018-06-09,FGS_R,20938 OUTLET,13.53,AV,Results,Technicianm
+407717,2018-06-09,FGS_R,20726 OUTLET,11.18,AV,Results,Technicianm
+407712,2018-06-09,FGS_R,20947 OUTLET,10.12,AV,Results,Technicianm
+407710,2018-06-09,FGS_R,20952 OUTLET,13.47,AV,Results,Technicianm
+407709,2018-06-10,FGS_R,20722 OUTLET,3.19,AV,Results,Technicianm
+407707,2018-06-10,FGS_R,20718 OUTLET,5.07,AV,Results,Technicianm
+407705,2018-06-10,FGS_R,20771C OUTLET,1.59,AV,Results,Technicianm
+407708,2018-06-10,FGS_R,20720 OUTLET,6.5,AV,Results,Technicianm
+407706,2018-06-10,FGS_R,WANNOCK WR02,1.45,AV,Results,Technicianm
+407704,2018-06-10,FGS_R,20771K OUTLET,1.62,AV,Results,Technicianm
+407703,2018-06-10,FGS_R,WANNOCK WR01,1.34,AV,Results,Technicianm
+407722,2018-06-11,FGS_R,20612 OUTLET,12.41,AV,Results,Technicianm
+407724,2018-06-11,FGS_R,20623 OUTLET,13.47,AV,Results,Technicianm
+407721,2018-06-11,FGS_R,20642 OUTLET,13.48,AV,Results,Technicianm
+407723,2018-06-11,FGS_R,20613 OUTLET,23.13,AV,Results,Technicianm
+407720,2018-06-11,FGS_R,20643 OUTLET,13.91,AV,Results,Technicianm
+408285,2018-06-12,FGS_R,819 OUTLET,15.01,AV,Results,Technicianm
+408284,2018-06-12,FGS_R,708 OUTLET,7.54,AV,Results,Technicianm
+408286,2018-06-12,FGS_R,703 OUTLET,6.26,AV,Results,Technicianm
+408154,2018-06-13,FGS_Y,KOEYE KR01,4.06,AV,Results,Technicianm
+410780,2018-06-17,FGS,626 OUTLET,11.83,AV,Results,Principal Investigator
+410781,2018-06-17,FGS,693 OUTLET,7.86,AV,Results,Principal Investigator
+410782,2018-06-17,FGS,703 OUTLET,5.28,AV,Results,Principal Investigator
+410783,2018-06-17,FGS,708 OUTLET,6.72,AV,Results,Principal Investigator
+410784,2018-06-17,FGS,819 OUTLET,13.65,AV,Results,Principal Investigator
+410785,2018-06-17,FGS,844 OUTLET,13.23,AV,Results,Principal Investigator
+410786,2018-06-17,FGS,1015 OUTLET,8.46,AV,Results,Principal Investigator
+412820,2018-06-27,FGS_B,4914 OUTLET,0.37,AV,Results,Technicianm
+412825,2018-06-27,FGS_B,HOMATHKO HOMA1,0.32,AV,Results,Technicianm
+412816,2018-06-27,FGS_B,PARADISE PDSE1,1.01,AV,Results,Technicianm
+412813,2018-06-27,FGS_B,4745 OUTLET,2.75,AV,Results,Technicianm
+412823,2018-06-27,FGS_B,4889 OUTLET,0.56,AV,Results,Technicianm
+412818,2018-06-27,FGS_B,4809 OUTLET,1.68,AV,Results,Technicianm
+412819,2018-06-27,FGS_B,4829 OUTLET,0.56,AV,Results,Technicianm
+412817,2018-06-27,FGS_B,4968 OUTLET,2.88,AV,Results,Technicianm
+412824,2018-06-27,FGS_B,SOUTHGATE SGTE2,0.29,AV,Results,Technicianm
+412812,2018-06-27,FGS_B,9257 OUTLET,1.65,AV,Results,Technicianm
+412822,2018-06-27,FGS_B,4848 OUTLET,0.75,AV,Results,Technicianm
+412814,2018-06-27,FGS_B,5005 OUTLET,3.06,AV,Results,Technicianm
+412821,2018-06-27,FGS_B,BEAR BEAR1,0.29,AV,Results,Technicianm
+412815,2018-06-27,FGS_B,4767 OUTLET,0.79,AV,Results,Technicianm
+412826,2018-06-27,FGS_B,CAMPCREEK WATERINTAKE,0.42,AV,Results,Technicianm
+412800,2018-06-28,FGS_B,8395 OUTLET,1.28,AV,Results,Technicianm
+412798,2018-06-28,FGS_B,9572 OUTLET,3.44,AV,Results,Technicianm
+412799,2018-06-28,FGS_B,9265 OUTLET,8.46,AV,Results,Technicianm
+412801,2018-06-28,FGS_B,8405 OUTLET,2.31,AV,Results,Technicianm
+412797,2018-06-28,FGS_B,MELLERSH MELR1,0.46,AV,Results,Technicianm
+412955,2018-06-29,FGS_B,HYACINTHE HYAC1,2.18,AV,Results,Technicianm
+412956,2018-06-29,FGS_B,8407 OUTLET,1.05,AV,Results,Technicianm
+415980,2018-07-03,FGS_R,20612 OUTLET,25.34,AV,Results,Technicianm
+415982,2018-07-03,FGS_R,20623 OUTLET,15.99,AV,Results,Technicianm
+415986,2018-07-03,FGS_R,20720 OUTLET,6.63,AV,Results,Technicianm
+415983,2018-07-03,FGS_R,20642 OUTLET,14.73,AV,Results,Technicianm
+415988,2018-07-03,FGS_R,20771C OUTLET,0.92,AV,Results,Technicianm
+415984,2018-07-03,FGS_R,20643 OUTLET,14.53,AV,Results,Technicianm
+415985,2018-07-03,FGS_R,20718 OUTLET,4.86,AV,Results,Technicianm
+415987,2018-07-03,FGS_R,20771K OUTLET,0.99,AV,Results,Technicianm
+415981,2018-07-03,FGS_R,20613 OUTLET,13.84,AV,Results,Technicianm
+415765,2018-07-04,FGS_R,20726 OUTLET,10.53,AV,Results,Technicianm
+415762,2018-07-04,FGS_R,20747 OUTLET,2.22,AV,Results,Technicianm
+415767,2018-07-04,FGS_R,20940 OUTLET,3.28,AV,Results,Technicianm
+415768,2018-07-04,FGS_R,20722 OUTLET,3.3,AV,Results,Technicianm
+415763,2018-07-04,FGS_R,20741 OUTLET,2.16,AV,Results,Technicianm
+415766,2018-07-04,FGS_R,20938 OUTLET,13.31,AV,Results,Technicianm
+415761,2018-07-04,FGS_R,WANNOCK WR02,1.17,AV,Results,Technicianm
+415764,2018-07-04,FGS_R,20727 OUTLET,5.36,AV,Results,Technicianm
+415978,2018-07-05,FGS_R,708 OUTLET,8.22,AV,Results,Technicianm
+415976,2018-07-05,FGS_R,20954 OUTLET,8.94,AV,Results,Technicianm
+415973,2018-07-05,FGS_R,26812 OUTLET,8.31,AV,Results,Technicianm
+415975,2018-07-05,FGS_R,20952 OUTLET,11.69,AV,Results,Technicianm
+415977,2018-07-05,FGS_R,819 OUTLET,15.61,AV,Results,Technicianm
+415979,2018-07-05,FGS_R,703 OUTLET,5.64,AV,Results,Technicianm
+415974,2018-07-05,FGS_R,20947 OUTLET,8.27,AV,Results,Technicianm
+417482,2018-07-12,FGS_Y,KOEYE KR01,4.07,AV,Results,Technicianm
+417999,2018-07-17,FGS,626 OUTLET,12.52,AV,Results,Principal Investigator
+418000,2018-07-17,FGS,693 OUTLET,8.84,AV,Results,Principal Investigator
+418001,2018-07-17,FGS,703 OUTLET,5.16,AV,Results,Principal Investigator
+418002,2018-07-17,FGS,708 OUTLET,7.71,AV,Results,Principal Investigator
+418003,2018-07-17,FGS,819 OUTLET,13.61,AV,Results,Principal Investigator
+418004,2018-07-17,FGS,844 OUTLET,12.83,AV,Results,Principal Investigator
+418005,2018-07-17,FGS,1015 OUTLET,9.72,AV,Results,Principal Investigator
+420259,2018-07-24,FGS_B,9257 OUTLET,1.11,AV,Results,Technicianm
+420261,2018-07-24,FGS_B,5005 OUTLET,2.32,AV,Results,Technicianm
+420260,2018-07-24,FGS_B,4745 OUTLET,NA,MV,Collected,Technicianm
+420262,2018-07-24,FGS_B,4767 OUTLET,0.8,AV,Results,Technicianm
+420263,2018-07-24,FGS_B,PARADISE PDSE1,0.51,AV,Results,Technicianm
+420275,2018-07-25,FGS_B,4829 OUTLET,0.17,AV,Results,Technicianm
+420276,2018-07-25,FGS_B,4809 OUTLET,2.17,AV,Results,Technicianm
+420271,2018-07-25,FGS_B,4848 OUTLET,0.27,AV,Results,Technicianm
+420274,2018-07-25,FGS_B,MELLERSH MELR1,0.4,AV,Results,Technicianm
+420273,2018-07-25,FGS_B,4914 OUTLET,0.36,AV,Results,Technicianm
+420272,2018-07-25,FGS_B,BEAR BEAR1,NA,MV,Collected,Technicianm
+420270,2018-07-25,FGS_B,4889 OUTLET,0.76,AV,Results,Technicianm
+420268,2018-07-26,FGS_B,9572 OUTLET,3.39,AV,Results,Technicianm
+420277,2018-07-26,FGS_B,4968 OUTLET,2.5,AV,Results,Technicianm
+420264,2018-07-26,FGS_B,8407 OUTLET,0.59,AV,Results,Technicianm
+420269,2018-07-26,FGS_B,HYACINTHE HYAC1,1.15,AV,Results,Technicianm
+420265,2018-07-26,FGS_B,8405 OUTLET,2.79,AV,Results,Technicianm
+420266,2018-07-26,FGS_B,9265 OUTLET,7.34,AV,Results,Technicianm
+420267,2018-07-26,FGS_B,8395 OUTLET,1.13,AV,Results,Technicianm
+422160,2018-07-27,FGS_R,NONE GLC1,0.3,AV,Results,Technicianm
+421751,2018-07-31,FGS_B,HOMATHKO HOMA1,0.44,AV,Results,Technicianm
+433049,2018-07-31,FGS_B,4791 TOWER2,0.44,AV,Results,Technicianm
+421751,2018-07-31,FGS_B,HOMATHKO HOMA1,0.57,AV,Results,Technicianm
+433055,2018-07-31,FGS_B,4791 TRIB1DS,0.79,AV,Results,Technicianm
+433053,2018-07-31,FGS_B,4791 TRIB1US,0.86,AV,Results,Technicianm
+421750,2018-07-31,FGS_B,CAMPCREEK WATERINTAKE,0.43,AV,Results,Technicianm
+422142,2018-08-04,FGS_R,20947 OUTLET,5.34,AV,Results,Technicianm
+422141,2018-08-04,FGS_R,26812 OUTLET,7.78,AV,Results,Technicianm
+422140,2018-08-04,FGS_R,20720 OUTLET,4.32,AV,Results,Technicianm
+422143,2018-08-04,FGS_R,20722 OUTLET,2.96,AV,Results,Technicianm
+422138,2018-08-04,FGS_R,20643 OUTLET,12.33,AV,Results,Technicianm
+422137,2018-08-04,FGS_R,20642 OUTLET,12.33,AV,Results,Technicianm
+422136,2018-08-04,FGS_R,20623 OUTLET,10.93,AV,Results,Technicianm
+422139,2018-08-04,FGS_R,20718 OUTLET,2.51,AV,Results,Technicianm
+422135,2018-08-04,FGS_R,20612 OUTLET,17.95,AV,Results,Technicianm
+422145,2018-08-05,FGS_R,20726 OUTLET,7.1,AV,Results,Technicianm
+422151,2018-08-05,FGS_R,20954 OUTLET,8.37,AV,Results,Technicianm
+422152,2018-08-05,FGS_R,20747 OUTLET,1.08,AV,Results,Technicianm
+428504,2018-08-05,FGS_R,20938 OUTLET,11.95,AV,Results,Technicianm
+422149,2018-08-05,FGS_R,20940 OUTLET,2.44,AV,Results,Technicianm
+422150,2018-08-05,FGS_R,20952 OUTLET,7.5,AV,Results,Technicianm
+428502,2018-08-05,FGS_R,20741 OUTLET,1.04,AV,Results,Technicianm
+422146,2018-08-05,FGS_R,20727 OUTLET,2.06,AV,Results,Technicianm
+422157,2018-08-06,FGS_R,703 OUTLET,4.56,AV,Results,Technicianm
+422158,2018-08-06,FGS_R,819 OUTLET,11.28,AV,Results,Technicianm
+422153,2018-08-06,FGS_R,20771K OUTLET,0.5,AV,Results,Technicianm
+422155,2018-08-06,FGS_R,WANNOCK WR02,0.85,AV,Results,Technicianm
+422159,2018-08-06,FGS_R,708 OUTLET,8.87,AV,Results,Technicianm
+422156,2018-08-06,FGS_R,WANNOCK WR01,0.83,AV,Results,Technicianm
+422154,2018-08-06,FGS_R,20771C OUTLET,0.36,AV,Results,Technicianm
+422058,2018-08-09,FGS_Y,KOEYE KR01,3.3,AV,Results,Technicianm
+435235,2018-08-20,FGS_KN,5209 HEYD1,0.97,AV,Results,Technicianm
+435236,2018-08-21,FGS_KN,5299 TUNA1,3.68,AV,Results,Technicianm
+435237,2018-08-22,FGS_KN,5881 LULL1,1.47,AV,Results,Technicianm
+435239,2018-08-23,FGS_KN,5559 GLEN1,4.5,AV,Results,Technicianm
+435238,2018-08-23,FGS_KN,5559 GLEN2,1.54,AV,Results,Technicianm
+435240,2018-08-23,FGS_KN,5559 TOMB1,4.28,AV,Results,Technicianm
+435241,2018-08-24,FGS_KN,5322 FULL1,4.78,AV,Results,Technicianm
+427434,2018-08-26,FGS,626 OUTLET,10.86,AV,Results,Principal Investigator
+427437,2018-08-26,FGS,693 OUTLET,7.45,SVC,Results,Principal Investigator
+427438,2018-08-26,FGS,703 OUTLET,5.41,AV,Results,Principal Investigator
+427439,2018-08-26,FGS,708 OUTLET,11.02,AV,Results,Principal Investigator
+427440,2018-08-26,FGS,819 OUTLET,11.78,AV,Results,Principal Investigator
+427441,2018-08-26,FGS,844 OUTLET,11.46,AV,Results,Principal Investigator
+427442,2018-08-26,FGS,1015 OUTLET,12.19,AV,Results,Principal Investigator
+427427,2018-08-26,FGS_B,9257 OUTLET,1.01,AV,Results,Technicianm
+427429,2018-08-26,FGS_B,5005 OUTLET,2.04,AV,Results,Technicianm
+427430,2018-08-26,FGS_B,4767 OUTLET,0.45,AV,Results,Technicianm
+427428,2018-08-26,FGS_B,4745 OUTLET,2.26,AV,Results,Technicianm
+427433,2018-08-26,FGS_B,4809 OUTLET,2.16,AV,Results,Technicianm
+427431,2018-08-26,FGS_B,PARADISE PDSE1,0.61,AV,Results,Technicianm
+427432,2018-08-26,FGS_B,8405 OUTLET,2.37,AV,Results,Technicianm
+429130,2018-08-29,FGS_B,4829 OUTLET,0.27,AV,Results,Technicianm
+429127,2018-08-29,FGS_B,HOMATHKO HOMA3,0.46,AV,Results,Technicianm
+429128,2018-08-29,FGS_B,HOMATHKO HOMA1,0.5,AV,Results,Technicianm
+429131,2018-08-29,FGS_B,MELLERSH MELR1,0.68,AV,Results,Technicianm
+429129,2018-08-29,FGS_B,SOUTHGATE SGTE3,0.38,AV,Results,Technicianm
+429127,2018-08-29,FGS_B,HOMATHKO HOMA3,0.36,AV,Results,Technicianm
+429128,2018-08-29,FGS_B,HOMATHKO HOMA1,0.37,AV,Results,Technicianm
+428009,2018-08-30,FGS_B,8407 OUTLET,0.93,AV,Results,Technicianm
+3320298,2018-08-30,FGS_B,HYACINTHE HYAC1,1.26,AV,Results,Technicianm
+428232,2018-09-03,FGS_R,20940 OUTLET,6.57,AV,Collected,Technicianm
+428234,2018-09-03,FGS_R,20952 OUTLET,13.32,AV,Collected,Technicianm
+428229,2018-09-03,FGS_R,20643 OUTLET,15.27,AV,Collected,Technicianm
+428231,2018-09-03,FGS_R,26812 OUTLET,8.88,AV,Collected,Technicianm
+428230,2018-09-03,FGS_R,20718 OUTLET,6.61,AV,Collected,Technicianm
+428233,2018-09-03,FGS_R,20722 OUTLET,6.65,AV,Collected,Technicianm
+428228,2018-09-03,FGS_R,20623 OUTLET,12.54,AV,Collected,Technicianm
+428226,2018-09-04,FGS_R,819 OUTLET,15.42,AV,Collected,Technicianm
+428220,2018-09-04,FGS_R,20771K OUTLET,0.72,AV,Collected,Technicianm
+428225,2018-09-04,FGS_R,703 OUTLET,7.53,AV,Collected,Technicianm
+428221,2018-09-04,FGS_R,20771C OUTLET,0.8,AV,Collected,Technicianm
+428222,2018-09-04,FGS_R,WANNOCK WR01,0.69,AV,Collected,Technicianm
+428227,2018-09-04,FGS_R,708 OUTLET,14.81,AV,Collected,Technicianm
+428224,2018-09-04,FGS_R,20741 OUTLET,2.32,AV,Collected,Technicianm
+428223,2018-09-04,FGS_R,WANNOCK WR02,0.72,AV,Collected,Technicianm
+428256,2018-09-05,FGS_Y,KOEYE KR01,3.81,AV,Results,Technicianm
+432204,2018-09-19,FGS,626 OUTLET,19.37,AV,Results,Principal Investigator
+432205,2018-09-19,FGS,693 OUTLET,10.73,AV,Results,Principal Investigator
+432206,2018-09-19,FGS,703 OUTLET,10.13,AV,Results,Principal Investigator
+432207,2018-09-19,FGS,708 OUTLET,14.83,AV,Results,Principal Investigator
+432208,2018-09-19,FGS,819 OUTLET,21.28,AV,Results,Principal Investigator
+432209,2018-09-19,FGS,844 OUTLET,19.91,AV,Results,Principal Investigator
+432210,2018-09-19,FGS,1015 OUTLET,12.65,AV,Results,Principal Investigator
+432604,2018-09-19,FGS_B,4829 OUTLET,0.26,AV,Results,Technicianm
+432612,2018-09-19,FGS_B,4889 OUTLET,0.72,AV,Results,Technicianm
+432602,2018-09-19,FGS_B,4968 OUTLET,3.41,AV,Results,Technicianm
+432611,2018-09-19,FGS_B,SOUTHGATE SGTE2,0.28,AV,Results,Technicianm
+432607,2018-09-19,FGS_B,4848 OUTLET,0.75,AV,Results,Technicianm
+432609,2018-09-19,FGS_B,HOMATHKO HOMA1,0.57,AV,Results,Technicianm
+432605,2018-09-19,FGS_B,MELLERSH MELR1,0.69,AV,Results,Technicianm
+432608,2018-09-19,FGS_B,CAMPCREEK WATERINTAKE,0.32,AV,Results,Technicianm
+432610,2018-09-19,FGS_B,4809 OUTLET,2.49,AV,Results,Technicianm
+432603,2018-09-19,FGS_B,4767 OUTLET,1.05,AV,Results,Technicianm
+432606,2018-09-19,FGS_B,4914 OUTLET,0.6,AV,Results,Technicianm
+432601,2018-09-19,FGS_B,PARADISE PDSE1,1.25,AV,Results,Technicianm
+432624,2018-09-20,FGS_B,9257 OUTLET,3.32,AV,Results,Technicianm
+432623,2018-09-20,FGS_B,4791 TRIB1US,0.87,AV,Results,Technicianm
+432621,2018-09-20,FGS_B,4791 TOWER2,0.42,AV,Results,Technicianm
+432622,2018-09-20,FGS_B,4791 TRIB1DS,0.8,AV,Results,Technicianm
+432620,2018-09-20,FGS_B,5005 OUTLET,4.75,AV,Results,Technicianm
+437014,2018-09-20,FGS_B,BEAR BEAR1,0.35,AV,Results,Technicianm
+432619,2018-09-20,FGS_B,4745 OUTLET,3.07,AV,Results,Technicianm
+432616,2018-09-21,FGS_B,8395 OUTLET,2.99,AV,Results,Technicianm
+432614,2018-09-21,FGS_B,9572 OUTLET,4.97,AV,Results,Technicianm
+432618,2018-09-21,FGS_B,8407 OUTLET,6.01,AV,Results,Technicianm
+432617,2018-09-21,FGS_B,HYACINTHE HYAC1,5.47,AV,Results,Technicianm
+432613,2018-09-21,FGS_B,9265 OUTLET,10.42,AV,Results,Technicianm
+432615,2018-09-21,FGS_B,8405 OUTLET,3.28,AV,Results,Technicianm
+436987,2018-09-25,FGS_KN,5209 HEYD2,2.89,AV,Results,Technicianm
+436988,2018-09-27,FGS_KN,5881 LULL1,2.83,AV,Results,Technicianm
+435758,2018-10-12,FGS_R,20771K OUTLET,1.94,AV,Results,Technicianm
+435753,2018-10-12,FGS_R,20722 OUTLET,4.02,AV,Results,Technicianm
+435754,2018-10-12,FGS_R,20741 OUTLET,3.3,AV,Results,Technicianm
+435757,2018-10-12,FGS_R,20771C OUTLET,2.55,AV,Results,Technicianm
+435755,2018-10-12,FGS_R,WANNOCK WR01,1.53,AV,Results,Technicianm
+435752,2018-10-12,FGS_R,20643 OUTLET,19.93,AV,Results,Technicianm
+435756,2018-10-12,FGS_R,WANNOCK WR02,1.4,AV,Results,Technicianm
+435751,2018-10-13,FGS_R,708 OUTLET,9.52,AV,Results,Technicianm
+435749,2018-10-13,FGS_R,703 OUTLET,7.59,AV,Results,Technicianm
+435747,2018-10-13,FGS_R,26812 OUTLET,10.45,AV,Results,Technicianm
+435748,2018-10-13,FGS_R,20952 OUTLET,14.61,AV,Results,Technicianm
+435750,2018-10-13,FGS_R,819 OUTLET,16.16,AV,Results,Technicianm
+435759,2018-10-14,FGS_R,26468 OUTLET,11.65,AV,Results,Technicianm
+435761,2018-10-14,FGS_R,26410 OUTLET,24.98,AV,Results,Technicianm
+435760,2018-10-14,FGS_Y,KOEYE KR01,4.75,AV,Results,Technicianm
+439492,2018-10-23,FGS_B,MELLERSH MELR1,0.61,AV,Results,Technicianm
+439487,2018-10-23,FGS_B,4767 OUTLET,1.08,AV,Results,Technicianm
+439488,2018-10-23,FGS_B,PARADISE PDSE1,0.84,AV,Results,Technicianm
+439495,2018-10-23,FGS_B,4848 OUTLET,1.15,AV,Results,Technicianm
+439494,2018-10-23,FGS_B,BEAR BEAR1,1.21,AV,Results,Technicianm
+439491,2018-10-23,FGS_B,4809 OUTLET,2.88,AV,Results,Technicianm
+439497,2018-10-23,FGS_B,HOMATHKO HOMA1,1.44,AV,Results,Technicianm
+439496,2018-10-23,FGS_B,SOUTHGATE SGTE1,0.51,AV,Results,Technicianm
+439497,2018-10-23,FGS_B,HOMATHKO HOMA1,0.47,AV,Results,Technicianm
+439493,2018-10-23,FGS_B,4914 OUTLET,1.1,AV,Results,Technicianm
+439489,2018-10-23,FGS_B,4829 OUTLET,0.37,AV,Results,Technicianm
+439490,2018-10-23,FGS_B,4968 OUTLET,2.24,AV,Results,Technicianm
+439506,2018-10-24,FGS_B,4745 OUTLET,2.27,AV,Results,Technicianm
+439505,2018-10-24,FGS_B,5005 OUTLET,6.22,AV,Results,Technicianm
+439509,2018-10-24,FGS_B,4791 TRIB1US,1.64,AV,Results,Technicianm
+439508,2018-10-24,FGS_B,4791 TRIB1DS,2.04,AV,Results,Technicianm
+439504,2018-10-24,FGS_B,4889 OUTLET,1.21,AV,Results,Technicianm
+439510,2018-10-24,FGS_B,9257 OUTLET,3.57,AV,Results,Technicianm
+439507,2018-10-24,FGS_B,4791 TOWER2,1.15,AV,Results,Technicianm
+439482,2018-10-25,FGS_B,8407 OUTLET,1.63,AV,Results,Technicianm
+439483,2018-10-25,FGS_B,8395 OUTLET,3.24,AV,Results,Technicianm
+439486,2018-10-25,FGS_B,8405 OUTLET,3.16,AV,Results,Technicianm
+439485,2018-10-25,FGS_B,9572 OUTLET,5.5,AV,Results,Technicianm
+439484,2018-10-25,FGS_B,9265 OUTLET,10.31,AV,Results,Technicianm
+439481,2018-10-25,FGS_B,HYACINTHE HYAC1,4.15,AV,Results,Technicianm
+439641,2018-10-26,FGS,693 OUTLET,10.72,AV,Results,Principal Investigator
+439642,2018-10-26,FGS,703 OUTLET,14.22,AV,Results,Principal Investigator
+439643,2018-10-26,FGS,708 OUTLET,17.2,SVC,Results,Principal Investigator
+439644,2018-10-26,FGS,819 OUTLET,21.3,AV,Results,Principal Investigator
+439645,2018-10-26,FGS,844 OUTLET,21.07,AV,Results,Principal Investigator
+439646,2018-10-26,FGS,1015 OUTLET,15.98,AV,Results,Principal Investigator
+439649,2018-10-27,FGS,626 OUTLET,16.71,AV,Results,Principal Investigator
+470818,2018-11-06,FGS_WSC,5693 GAUGINGSTATION,2.06,AV,Results,Technicianmr
+447181,2018-11-07,FGS_KN,5322 FULL1,6.75,AV,Results,Technicianm
+450215,2018-11-14,FGS_KN,5322 FULL1,8.48,AV,Results,Technicianm
+444732,2018-11-14,FGS_R,26410 OUTLET,21.7,AV,Results,Technicianm
+445429,2018-11-14,FGS_Y,KOEYE KR01,6.29,AV,Results,Technicianm
+470817,2018-11-15,FGS_WSC,59376 GAUGINGSTATION,2.35,AV,Results,Technicianmr
+470816,2018-11-15,FGS_WSC,59377 GAUGINGSTATION,3.4,AV,Results,Technicianmr
+445441,2018-11-16,FGS_R,20643 OUTLET,19.13,AV,Results,Technicianm
+445438,2018-11-16,FGS_R,819 OUTLET,18.29,AV,Results,Technicianm
+445440,2018-11-16,FGS_R,26468 OUTLET,9.96,AV,Results,Technicianm
+445439,2018-11-16,FGS_R,703 OUTLET,8.77,AV,Results,Technicianm
+445444,2018-11-16,FGS_R,20940 OUTLET,3.4,AV,Results,Technicianm
+445443,2018-11-16,FGS_R,20952 OUTLET,12.72,AV,Results,Technicianm
+445445,2018-11-16,FGS_R,20722 OUTLET,4.9,AV,Results,Technicianm
+445442,2018-11-16,FGS_R,26812 OUTLET,11.67,AV,Results,Technicianm
+445450,2018-11-17,FGS_R,708 OUTLET,12.26,AV,Results,Technicianm
+445452,2018-11-17,FGS_R,20771K OUTLET,2.68,AV,Results,Technicianm
+445447,2018-11-17,FGS_R,WANNOCK WR02,1.58,AV,Results,Technicianm
+445446,2018-11-17,FGS_R,20771C OUTLET,4.08,AV,Results,Technicianm
+445453,2018-11-17,FGS_R,20741 OUTLET,2.7,AV,Results,Technicianm
+445451,2018-11-17,FGS_R,WANNOCK WR01,1.39,AV,Results,Technicianm
+447382,2018-11-20,FGS,626 OUTLET,13.19,AV,Results,Principal Investigator
+447383,2018-11-20,FGS,693 OUTLET,9.82,AV,Results,Principal Investigator
+447384,2018-11-20,FGS,703 OUTLET,6.49,AV,Results,Principal Investigator
+447385,2018-11-20,FGS,708 OUTLET,11,AV,Results,Principal Investigator
+447381,2018-11-20,FGS,819 OUTLET,14.48,AV,Results,Principal Investigator
+447386,2018-11-20,FGS,844 OUTLET,13.8,AV,Results,Principal Investigator
+447387,2018-11-20,FGS,1015 OUTLET,14.21,AV,Results,Principal Investigator
+448955,2018-11-26,FGS_B,8407 OUTLET,5.01,AV,Results,Technicianm
+448952,2018-11-26,FGS_B,HYACINTHE HYAC1,5.02,AV,Results,Technicianm
+448993,2018-11-27,FGS_B,BEAR BEAR1,2.67,AV,Results,Technicianm
+448994,2018-11-27,FGS_B,4889 OUTLET,4.52,AV,Results,Technicianm
+448995,2018-11-27,FGS_B,HOMATHKO HOMA1,3.63,AV,Results,Technicianm
+448990,2018-11-27,FGS_B,MELLERSH MELR1,3.78,AV,Results,Technicianm
+448995,2018-11-27,FGS_B,HOMATHKO HOMA1,5.59,AV,Results,Technicianm
+448989,2018-11-27,FGS_B,4829 OUTLET,3.03,AV,Results,Technicianm
+448988,2018-11-27,FGS_B,PARADISE PDSE1,3.15,AV,Results,Technicianm
+448987,2018-11-27,FGS_B,4767 OUTLET,2.7,AV,Results,Technicianm
+448991,2018-11-27,FGS_B,4914 OUTLET,1.88,AV,Results,Technicianm
+448992,2018-11-27,FGS_B,4848 OUTLET,3.73,AV,Results,Technicianm
+449007,2018-11-28,FGS_B,9257 OUTLET,4.65,AV,Results,Technicianm
+448998,2018-11-28,FGS_B,CAMPCREEK WATERINTAKE,3.48,AV,Results,Technicianm
+449005,2018-11-28,FGS_B,5005 OUTLET,5.67,AV,Results,Technicianm
+449002,2018-11-28,FGS_B,4791 TOWER2,2.59,AV,Results,Technicianm
+449003,2018-11-28,FGS_B,4791 TRIB1US,3.94,AV,Results,Technicianm
+449006,2018-11-28,FGS_B,4745 OUTLET,5.59,AV,Results,Technicianm
+449004,2018-11-28,FGS_B,4791 TRIB1DS,2.11,AV,Results,Technicianm
+448999,2018-11-28,FGS_B,SOUTHGATE SGTE1,3.46,AV,Results,Technicianm
+470821,2018-11-28,FGS_WSC,55637 GAUGINGSTATION,8.33,AV,Results,Technicianmr
+470819,2018-11-28,FGS_WSC,6192 GAUGINGSTATION,3.94,AV,Results,Technicianmr
+470820,2018-11-28,FGS_WSC,6252 GAUGINGSTATION,5.6,AV,Results,Technicianmr
+449282,2018-11-29,FGS_B,9265 OUTLET,6.29,AV,Results,Technicianm
+449281,2018-11-29,FGS_B,9572 OUTLET,7.19,AV,Results,Technicianm
+449280,2018-11-29,FGS_B,8395 OUTLET,2.18,AV,Results,Technicianm
+449279,2018-11-29,FGS_B,8405 OUTLET,3.03,AV,Results,Technicianm
+471024,2018-11-29,FGS_WSC,HOMATHKO HOMA3,3.01,AV,Results,Technicianmr
+470856,2019-01-09,FGS_WSC,6252 GAUGINGSTATION,3.32,AV,Results,Technicianmr
+470857,2019-01-09,FGS_WSC,6192 GAUGINGSTATION,1.91,AV,Results,Technicianmr
+470858,2019-01-09,FGS_WSC,55637 GAUGINGSTATION,4.63,AV,Results,Technicianmr
+470859,2019-01-10,FGS_WSC,5693 GAUGINGSTATION,1.22,AV,Results,Technicianmr
+457517,2019-01-14,FGS_R,708 OUTLET,8.25,AV,Results,Technicianmr
+457510,2019-01-15,FGS_R,20771K OUTLET,1.7,AV,Results,Technicianmr
+457511,2019-01-15,FGS_R,20771C OUTLET,1.98,AV,Results,Technicianmr
+457508,2019-01-15,FGS_R,WANNOCK WR01,1.82,AV,Results,Technicianmr
+457505,2019-01-15,FGS_R,20952 OUTLET,6.81,AV,Results,Technicianmr
+457507,2019-01-15,FGS_R,20643 OUTLET,13.31,AV,Results,Technicianmr
+457509,2019-01-15,FGS_R,WANNOCK WR02,1.99,AV,Results,Technicianmr
+457502,2019-01-15,FGS_R,819 OUTLET,12.46,AV,Results,Technicianmr
+457503,2019-01-15,FGS_R,703 OUTLET,6.25,AV,Results,Technicianmr
+457504,2019-01-15,FGS_R,26468 OUTLET,7.11,AV,Results,Technicianmr
+457506,2019-01-15,FGS_R,20722 OUTLET,4.41,AV,Results,Technicianmr
+470860,2019-01-16,FGS_WSC,59377 GAUGINGSTATION,1.97,AV,Results,Technicianmr
+470861,2019-01-16,FGS_WSC,59376 GAUGINGSTATION,1.88,AV,Results,Technicianmr
+457519,2019-01-17,FGS_R,26410 OUTLET,9.55,AV,Results,Technicianmr
+470862,2019-01-17,FGS_WSC,59637 GAUGINGSTATION,1.11,AV,Results,Technicianmr
+458853,2019-01-22,FGS,626 OUTLET,NA,MV,Results,Principal Investigator
+458855,2019-01-22,FGS,693 OUTLET,5.12,AV,Results,Principal Investigator
+458854,2019-01-22,FGS,703 OUTLET,5.99,AV,Results,Principal Investigator
+458856,2019-01-22,FGS,708 OUTLET,8.16,AV,Results,Principal Investigator
+458857,2019-01-22,FGS,819 OUTLET,8.52,AV,Results,Principal Investigator
+458858,2019-01-22,FGS,844 OUTLET,8.18,AV,Results,Principal Investigator
+458852,2019-01-22,FGS,1015 OUTLET,11.12,AV,Results,Principal Investigator
+460108,2019-01-28,FGS_B,HOMATHKO HOMA1,1.05,SVC,Results,Technicianmr
+460115,2019-01-28,FGS_B,BEAR BEAR1,0.95,AV,Results,Technicianmr
+460116,2019-01-28,FGS_B,MELLERSH MELR1,1.28,AV,Results,Technicianmr
+460111,2019-01-28,FGS_B,SOUTHGATE SGTE1,1.28,AV,Results,Technicianmr
+460108,2019-01-28,FGS_B,HOMATHKO HOMA1,1.44,SVC,Results,Technicianmr
+460117,2019-01-28,FGS_B,4829 OUTLET,1.59,AV,Results,Technicianmr
+460114,2019-01-28,FGS_B,4889 OUTLET,1.11,AV,Results,Technicianmr
+460081,2019-01-29,FGS_B,4791 TRIB1DS,1.04,AV,Results,Technicianmr
+460083,2019-01-29,FGS_B,4791 TOWER2,0.76,AV,Results,Technicianmr
+460090,2019-01-29,FGS_B,9257 OUTLET,2.32,AV,Results,Technicianmr
+460086,2019-01-29,FGS_B,5005 OUTLET,3.83,AV,Results,Technicianmr
+460087,2019-01-29,FGS_B,4745 OUTLET,3.45,AV,Results,Technicianmr
+460082,2019-01-29,FGS_B,4791 TRIB1US,0.89,AV,Results,Technicianmr
+460084,2019-01-29,FGS_B,PARADISE PDSE1,1.71,AV,Results,Technicianmr
+460085,2019-01-29,FGS_B,4767 OUTLET,1.15,AV,Results,Technicianmr
+460092,2019-01-30,FGS_B,8395 OUTLET,NA,MV,Results,Technicianmr
+460094,2019-01-30,FGS_B,8405 OUTLET,2.42,AV,Results,Technicianmr
+460093,2019-01-30,FGS_B,9265 OUTLET,4.62,AV,Results,Technicianmr
+460091,2019-01-30,FGS_B,9572 OUTLET,5.15,AV,Results,Technicianmr
+471046,2019-01-30,FGS_WSC,HOMATHKO HOMA3,1.3,AV,Results,Technicianmr
+460121,2019-01-31,FGS_B,8407 OUTLET,1.22,AV,Results,Technicianmr
+460118,2019-01-31,FGS_B,HYACINTHE HYAC1,2.28,AV,Results,Technicianmr
+502532,2019-02-06,FGS_KN,5299 TUNA1,4.7,AV,Results,Technicianm
+471105,2019-02-16,FGS_R,26410 OUTLET,10.51,AV,Results,Technicianm
+472414,2019-02-17,FGS,626 OUTLET,NA,NA,Not Available,Technicianm
+472416,2019-02-17,FGS,693 OUTLET,6.24,AV,Results,Principal Investigator
+472419,2019-02-17,FGS,844 OUTLET,8.53,AV,Results,Principal Investigator
+472420,2019-02-17,FGS,1015 OUTLET,11.31,AV,Results,Principal Investigator
+472415,2019-02-17,"FGS,FGS_R",703 OUTLET,3.73,AV,Results,Principal Investigator
+472417,2019-02-17,"FGS,FGS_R",708 OUTLET,8.1,AV,Results,Principal Investigator
+472418,2019-02-17,"FGS,FGS_R",819 OUTLET,8.81,AV,Results,Principal Investigator
+471555,2019-02-18,FGS_R,20741 OUTLET,1.23,AV,Results,Technicianm
+471553,2019-02-18,FGS_R,20722 OUTLET,3.67,AV,Results,Technicianm
+471557,2019-02-18,FGS_R,WANNOCK WR01,1.36,SVC,Results,Technicianm
+471554,2019-02-18,FGS_R,20952 OUTLET,5.9,AV,Results,Technicianm
+471556,2019-02-18,FGS_R,WANNOCK WR02,1.47,SVC,Results,Technicianm
+471560,2019-02-18,FGS_R,20940 OUTLET,2.25,AV,Results,Technicianm
+471551,2019-02-19,FGS_R,20643 OUTLET,13.08,AV,Results,Technicianm
+471552,2019-02-19,FGS_R,26468 OUTLET,4.32,AV,Results,Technicianm
+473842,2019-02-21,FGS_Y,KOEYE KR01,3.72,AV,Results,Technicianm
+474860,2019-02-25,FGS_B,8407 OUTLET,1.86,AV,Results,Technicianm
+474861,2019-02-25,FGS_B,HYACINTHE HYAC1,3.53,AV,Results,Technicianm
+475978,2019-02-26,FGS_B,9572 OUTLET,4.66,AV,Results,Technicianm
+475981,2019-02-26,FGS_B,8405 OUTLET,2.45,AV,Results,Technicianm
+475979,2019-02-26,FGS_B,8395 OUTLET,2.22,AV,Results,Technicianm
+475980,2019-02-26,FGS_B,9265 OUTLET,4.27,AV,Results,Technicianm
+483386,2019-02-27,FGS_WSC,59377 GAUGINGSTATION,1.27,AV,Results,Technicianm
+483387,2019-02-27,FGS_WSC,59376 GAUGINGSTATION,1.16,AV,Results,Technicianm
+483388,2019-02-28,FGS_WSC,59637 GAUGINGSTATION,0.86,AV,Results,Technicianm
+511127,2019-03-14,FGS,693 OUTLET,5.75,AV,Results,Principal Investigator
+511128,2019-03-14,FGS,703 OUTLET,6.38,AV,Results,Principal Investigator
+511129,2019-03-14,FGS,708 OUTLET,7.52,AV,Results,Principal Investigator
+511130,2019-03-14,FGS,819 OUTLET,8.28,AV,Results,Principal Investigator
+511131,2019-03-14,FGS,844 OUTLET,6.82,AV,Results,Principal Investigator
+511132,2019-03-14,FGS,1015 OUTLET,9.76,AV,Results,Principal Investigator
+511133,2019-03-16,FGS,626 OUTLET,6.71,AV,Results,Principal Investigator
+504766,2019-03-25,FGS_B,8395 OUTLET,1.37,AV,Results,Technicianm
+504767,2019-03-25,FGS_B,9572 OUTLET,4.29,AV,Results,Technicianm
+504768,2019-03-25,FGS_B,9265 OUTLET,4.65,AV,Results,Technicianm
+504268,2019-03-26,FGS_B,PARADISE PDSE1,2.71,AV,Results,Technicianm
+504269,2019-03-26,FGS_B,4791 TOWER2,1.34,AV,Results,Technicianm
+504266,2019-03-26,FGS_B,5005 OUTLET,4.24,AV,Results,Technicianm
+504264,2019-03-26,FGS_B,9257 OUTLET,2.36,AV,Results,Technicianm
+504267,2019-03-26,FGS_B,4767 OUTLET,1.6,AV,Results,Technicianm
+504265,2019-03-26,FGS_B,4745 OUTLET,4.33,AV,Results,Technicianm
+504554,2019-03-27,FGS_B,8407 OUTLET,0.89,AV,Results,Technicianm
+504555,2019-03-27,FGS_B,8405 OUTLET,2.49,AV,Results,Technicianm
+504556,2019-03-27,FGS_B,HYACINTHE HYAC1,1.94,AV,Results,Technicianm
+504570,2019-03-28,FGS_B,4829 OUTLET,0.55,AV,Results,Technicianm
+504569,2019-03-28,FGS_B,MELLERSH MELR1,1.52,AV,Results,Technicianm
+504568,2019-03-28,FGS_B,4914 OUTLET,1.19,AV,Results,Technicianm
+504559,2019-03-28,FGS_B,HOMATHKO HOMA1,2.11,AV,Results,Technicianm
+504559,2019-03-28,FGS_B,HOMATHKO HOMA1,1.89,AV,Results,Technicianm
+504565,2019-03-28,FGS_B,4889 OUTLET,1.87,AV,Results,Technicianm
+504566,2019-03-28,FGS_B,4848 OUTLET,2.57,AV,Results,Technicianm
+504562,2019-03-28,FGS_B,SOUTHGATE SGTE1,2.15,SVC,Results,Technicianm
+504567,2019-03-28,FGS_B,BEAR BEAR1,1.55,AV,Results,Technicianm
+509141,2019-04-02,FGS_WSC,59637 GAUGINGSTATION,0.63,AV,Results,Technicianm
+509140,2019-04-10,FGS_WSC,59376 GAUGINGSTATION,1.1,AV,Results,Technicianm
+509139,2019-04-10,FGS_WSC,59377 GAUGINGSTATION,1.53,AV,Results,Technicianm
+507980,2019-04-17,FGS,626 OUTLET,7.73,AV,Results,Principal Investigator
+507981,2019-04-17,FGS,693 OUTLET,5.01,AV,Results,Principal Investigator
+507982,2019-04-17,FGS,703 OUTLET,5.09,AV,Results,Principal Investigator
+507983,2019-04-17,FGS,708 OUTLET,7.71,AV,Results,Principal Investigator
+507984,2019-04-17,FGS,819 OUTLET,9.11,AV,Results,Principal Investigator
+507985,2019-04-17,FGS,844 OUTLET,9.2,AV,Results,Principal Investigator
+507988,2019-04-17,FGS,1015 OUTLET,8.85,AV,Results,Principal Investigator
+509142,2019-04-17,FGS_KN,5322 FULL1,5.21,AV,Results,Technicianm
+512827,2019-04-30,FGS_WSC,5693 GAUGINGSTATION,1.18,AV,Results,Technicianm
+510916,2019-05-01,FGS_R,WANNOCK WR02,1.36,AV,Results,Technicianm
+512830,2019-05-01,FGS_WSC,55637 GAUGINGSTATION,2.97,AV,Results,Technicianm
+512828,2019-05-01,FGS_WSC,6192 GAUGINGSTATION,1.05,AV,Results,Technicianm
+512829,2019-05-01,FGS_WSC,6252 GAUGINGSTATION,1.43,AV,Results,Technicianm
+512831,2019-05-02,FGS_WSC,HOMATHKO HOMA3,1.41,AV,Results,Technicianm
+510924,2019-05-02,FGS_Y,KOEYE KR01,3.08,AV,Results,Technicianm
+512832,2019-05-05,FGS_KN,5559 GLEN1,4.3,NA,Results,Technicianm
+511431,2019-05-12,FGS,626 OUTLET,7.14,AV,Results,Principal Investigator
+511432,2019-05-12,FGS,693 OUTLET,NA,MV,Collected,Technicianm
+511433,2019-05-12,FGS,703 OUTLET,2.59,AV,Results,Principal Investigator
+511434,2019-05-12,FGS,708 OUTLET,5.11,AV,Results,Principal Investigator
+511437,2019-05-12,FGS,819 OUTLET,6.04,AV,Results,Principal Investigator
+511438,2019-05-12,FGS,844 OUTLET,5.22,AV,Results,Principal Investigator
+511439,2019-05-12,FGS,1015 OUTLET,7.2,AV,Results,Principal Investigator
+513041,2019-05-15,FGS_WSC,59376 GAUGINGSTATION,0.93,AV,Results,Technicianm
+513042,2019-05-15,FGS_WSC,59377 GAUGINGSTATION,0.76,AV,Results,Technicianm
+512787,2019-05-16,FGS_B,HOMATHKO HOMA1,1.19,AV,Results,Technicianm
+512787,2019-05-16,FGS_B,HOMATHKO HOMA1,1.12,AV,Results,Technicianm
+513043,2019-05-16,FGS_WSC,59637 GAUGINGSTATION,0.8,AV,Results,Technicianm
+513408,2019-05-27,FGS_WSC,3859 GAUGINGSTATION,1.11,AV,Results,Technicianm
+521408,2019-06-12,FGS,626 OUTLET,10.18,AV,Results,Technicianm
+521409,2019-06-12,FGS,693 OUTLET,3.67,AV,Results,Technicianm
+521410,2019-06-12,FGS,703 OUTLET,2.99,AV,Results,Technicianm
+521411,2019-06-12,FGS,708 OUTLET,4.49,AV,Results,Technicianm
+521412,2019-06-12,FGS,819 OUTLET,9.37,AV,Results,Technicianm
+521413,2019-06-12,FGS,844 OUTLET,10.16,AV,Results,Technicianm
+521414,2019-06-12,FGS,1015 OUTLET,6.58,AV,Results,Technicianm
+526681,2019-06-19,FGS_R,WANNOCK WR02,1.23,AV,Results,Technicianm
+526681,2019-06-19,FGS_R,WANNOCK WR02,1.21,AV,Results,Technicianm
+524471,2019-06-19,FGS_WSC,59637 GAUGINGSTATION,0.75,AV,Results,Technicianm
+523785,2019-06-25,FGS_B,4791 TRIB1US,0.67,AV,Results,Technicianm
+523786,2019-06-25,FGS_B,4791 TRIB1DS,0.43,AV,Results,Technicianm
+523779,2019-06-25,FGS_B,HOMATHKO HOMA1,0.25,AV,Results,Technicianm
+523782,2019-06-25,FGS_B,SOUTHGATE SGTE3,0.26,AV,Results,Technicianm
+523783,2019-06-25,FGS_B,HOMATHKO HOMA3,0.26,AV,Results,Technicianm
+523788,2019-06-25,FGS_B,5005 OUTLET,1.33,AV,Results,Technicianm
+523779,2019-06-25,FGS_B,HOMATHKO HOMA1,0.24,AV,Results,Technicianm
+523779,2019-06-25,FGS_B,HOMATHKO HOMA1,0.3,AV,Results,Technicianm
+523787,2019-06-25,FGS_B,PARADISE PDSE1,0.5,AV,Results,Technicianm
+523784,2019-06-25,FGS_B,4791 TOWER2,0.2,AV,Results,Technicianm
+523799,2019-06-26,FGS_KN,5688 OUTLET,0.43,AV,Results,Technicianm
+523796,2019-06-26,FGS_KN,5693 GAUGINGSTATION,0.35,AV,Results,Technicianm
+523802,2019-06-26,FGS_KN,5722 OUTLET,0.22,AV,Results,Technicianm
+523803,2019-06-26,FGS_KN,5819 OUTLET,0.42,AV,Results,Technicianm
+523799,2019-06-26,FGS_KN,5688 OUTLET,0.16,AV,Results,Technicianm
+523799,2019-06-26,FGS_KN,5688 OUTLET,0.21,AV,Results,Technicianm
+523795,2019-06-26,FGS_KN,5559 GLEN2,2.3,AV,Results,Technicianm
+523796,2019-06-26,FGS_KN,5693 GAUGINGSTATION,0.3,AV,Results,Technicianm
+523805,2019-06-26,FGS_KN,5881 LULL1,4.37,AV,Results,Technicianm
+523796,2019-06-26,FGS_KN,5693 GAUGINGSTATION,0.4,AV,Results,Technicianm
+523804,2019-06-26,FGS_KN,5850 OUTLET,0.71,AV,Results,Technicianm
+524372,2019-07-09,FGS,844 OUTLET,8.47,AV,Results,Technicianm
+524373,2019-07-09,FGS,819 OUTLET,8.99,AV,Results,Technicianm
+524374,2019-07-09,FGS,703 OUTLET,2.81,AV,Results,Technicianm
+524375,2019-07-09,FGS,1015 OUTLET,7.87,AV,Results,Technicianm
+524376,2019-07-09,FGS,626 OUTLET,10.41,AV,Results,Technicianm
+524377,2019-07-09,FGS,708 OUTLET,5.94,AV,Results,Technicianm
+524371,2019-07-09,FGS,693 OUTLET,4.68,AV,Results,Technicianm
+524472,2019-07-09,FGS_WSC,59377 GAUGINGSTATION,1.48,AV,Results,Technicianm
+524473,2019-07-09,FGS_WSC,59376 GAUGINGSTATION,0.86,AV,Results,Technicianm
+524467,2019-07-09,FGS_WSC,6192 GAUGINGSTATION,0.7,AV,Results,Technicianm
+524468,2019-07-09,FGS_WSC,6252 GAUGINGSTATION,0.97,AV,Results,Technicianm
+524469,2019-07-09,FGS_WSC,55637 GAUGINGSTATION,2.34,AV,Results,Technicianm
+524474,2019-07-09,FGS_WSC,3932 GAUGINGSTATION,2.85,AV,Results,Technicianm
+524470,2019-07-10,FGS_WSC,HOMATHKO HOMA3,0.89,AV,Results,Technicianm
+524598,2019-07-15,FGS_WSC,5693 GAUGINGSTATION,0.74,AV,Results,Technicianm
+526069,2019-07-15,FGS_WSC,73279 GAUGINGSTATION,1.36,AV,Results,Technicianm
+525180,2019-07-16,FGS_B,HOMATHKO HOMA1,0.8,AV,Results,Technicianm
+525180,2019-07-16,FGS_B,HOMATHKO HOMA1,0.59,AV,Results,Technicianm
+525180,2019-07-16,FGS_B,HOMATHKO HOMA1,0.55,AV,Results,Technicianm
+526072,2019-07-16,FGS_WSC,68539 GAUGINGSTATION,4.37,AV,Results,Technicianm
+526073,2019-07-16,FGS_WSC,69781 GAUGINGSTATION,6.51,AV,Results,Technicianm
+526065,2019-07-22,FGS_R,WANNOCK WR02,0.96,AV,Results,Technicianm
+526065,2019-07-22,FGS_R,WANNOCK WR02,0.92,AV,Results,Technicianm
+526671,2019-07-24,FGS_Y,KOEYE KR01,3.87,AV,Results,Technicianm
+1057533,2019-08-01,FGS_WSC,3859 GAUGINGSTATION,0.77,AV,Results,Technicianm
+1058524,2019-08-04,FGS,626 OUTLET,13.19,AV,Results,Technicianm
+1058523,2019-08-04,FGS,693 OUTLET,8.9,AV,Results,Technicianm
+1058522,2019-08-04,FGS,703 OUTLET,5.65,AV,Results,Technicianm
+1058521,2019-08-04,FGS,708 OUTLET,6.86,AV,Results,Technicianm
+1058520,2019-08-04,FGS,819 OUTLET,12.91,AV,Results,Technicianm
+1058519,2019-08-04,FGS,844 OUTLET,12.43,AV,Results,Technicianm
+1058512,2019-08-04,FGS,1015 OUTLET,8.34,AV,Results,Technicianm
+1595741,2019-08-16,FGS_R,WANNOCK WR02,0.8,AV,Results,Technicianm
+1598446,2019-08-19,FGS_WSC,5693 GAUGINGSTATION,0.23,AV,Results,Technicianm
+1598450,2019-08-20,FGS_WSC,6192 GAUGINGSTATION,0.1,AV,Results,Technicianm
+1598452,2019-08-20,FGS_WSC,55637 GAUGINGSTATION,1.65,AV,Results,Technicianm
+1598451,2019-08-20,FGS_WSC,6252 GAUGINGSTATION,0.41,AV,Results,Technicianm
+1598454,2019-08-21,FGS_WSC,HOMATHKO HOMA3,0.12,AV,Results,Technicianm
+1598374,2019-08-22,FGS_B,HOMATHKO HOMA1,0.27,AV,Results,Technicianm
+1598374,2019-08-22,FGS_B,HOMATHKO HOMA1,0.25,AV,Results,Technicianm
+1599667,2019-09-03,FGS,693 OUTLET,8.79,AV,Results,Technicianm
+1599668,2019-09-03,FGS,703 OUTLET,6.65,AV,Results,Technicianm
+1599666,2019-09-03,FGS,708 OUTLET,9.74,AV,Results,Technicianm
+1599663,2019-09-03,FGS,819 OUTLET,15.7,AV,Results,Technicianm
+1599665,2019-09-03,FGS,844 OUTLET,14.91,AV,Results,Technicianm
+1599669,2019-09-03,FGS,1015 OUTLET,8.08,AV,Results,Technicianm
+1599664,2019-09-03,FGS,626 OUTLET,12.23,AV,Results,Technicianm
+1615426,2019-09-10,FGS_WSC,68539 GAUGINGSTATION,6.81,AV,Results,Technicianm
+1615427,2019-09-10,FGS_WSC,69781 GAUGINGSTATION,5.26,AV,Results,Technicianm
+1608037,2019-09-11,FGS_R,WANNOCK WR02,0.68,AV,Results,Technicianm
+1615422,2019-09-11,FGS_WSC,59377 GAUGINGSTATION,0.56,AV,Results,Technicianm
+1615423,2019-09-11,FGS_WSC,59376 GAUGINGSTATION,0.9,AV,Results,Technicianm
+1615419,2019-09-12,FGS_WSC,73279 GAUGINGSTATION,1.94,AV,Results,Technicianm
+1611015,2019-09-19,FGS_B,HOMATHKO HOMA1,0.42,AV,Results,Technicianm
+1611015,2019-09-19,FGS_B,HOMATHKO HOMA1,0.56,AV,Results,Technicianm
+1628242,2019-10-02,FGS,626 OUTLET,16.07,AV,Results,Raw
+1628243,2019-10-02,FGS,703 OUTLET,6.27,AV,Results,Raw
+1628244,2019-10-02,FGS,844 OUTLET,15.92,AV,Results,Raw
+1628245,2019-10-02,FGS,1015 OUTLET,10.55,AV,Results,Raw
+1628642,2019-10-10,FGS_B,HOMATHKO HOMA3,0.61,AV,Results,Technicianm
+1628642,2019-10-10,FGS_B,HOMATHKO HOMA3,0.65,AV,Results,Technicianm
+1636727,2019-10-11,FGS_WSC,3859 GAUGINGSTATION,1.41,AV,Results,Technicianm
+1636729,2019-10-15,FGS_WSC,5693 GAUGINGSTATION,0.77,AV,Results,Technicianm
+1636733,2019-10-16,FGS_WSC,6192 GAUGINGSTATION,2.9,AV,Results,Technicianm
+1636734,2019-10-16,FGS_WSC,6252 GAUGINGSTATION,3.83,AV,Results,Technicianm
+1636735,2019-10-16,FGS_WSC,55637 GAUGINGSTATION,6.63,AV,Results,Technicianm
+1636737,2019-10-17,FGS_WSC,HOMATHKO HOMA3,1.73,AV,Results,Technicianm
+1636001,2019-10-18,FGS_B,HOMATHKO HOMA3,2.31,AV,Results,Technicianm
+1636001,2019-10-18,FGS_B,HOMATHKO HOMA3,2.37,AV,Results,Technicianm
+1636001,2019-10-18,FGS_B,HOMATHKO HOMA3,2.64,AV,Results,Technicianm
+1638480,2019-10-29,FGS_WSC,69781 GAUGINGSTATION,9.46,AV,Results,Technicianm
+1638481,2019-10-29,FGS_WSC,68539 GAUGINGSTATION,7.45,AV,Results,Technicianm
+1638483,2019-10-31,FGS_WSC,73279 GAUGINGSTATION,2.33,AV,Results,Technicianm
+1638475,2019-11-07,FGS_B,HOMATHKO HOMA3,0.58,AV,Results,Technicianm
+1638475,2019-11-07,FGS_B,HOMATHKO HOMA3,0.56,AV,Results,Technicianm
+1652648,2019-11-13,FGS_WSC,59377 GAUGINGSTATION,1.8,AV,Results,Technicianm
+1652649,2019-11-13,FGS_WSC,59376 GAUGINGSTATION,2,AV,Results,Technicianm
+1652651,2019-11-14,FGS_WSC,59637 GAUGINGSTATION,0.92,AV,Results,Technicianm
+1659724,2019-11-25,FGS_WSC,5693 GAUGINGSTATION,1.69,AV,Results,Technicianm
+1659719,2019-11-26,FGS_WSC,6252 GAUGINGSTATION,1.91,AV,Results,Technicianm
+1659720,2019-11-26,FGS_WSC,55637 GAUGINGSTATION,5.85,AV,Results,Technicianm
+1659718,2019-11-26,FGS_WSC,6192 GAUGINGSTATION,1.47,AV,Results,Technicianm
+1663981,2019-11-27,FGS,626 OUTLET,NA,NA,Not Available,Technicianm
+1663987,2019-11-27,FGS,844 OUTLET,NA,NA,Not Available,Technicianm
+1663982,2019-11-27,FGS,703 OUTLET,8.12,AV,Results,Technicianm
+1664040,2019-11-27,FGS,819 OUTLET,15.95,AV,Results,Technicianm
+1663986,2019-11-27,FGS,1015 OUTLET,13.49,AV,Results,Technicianm
+1659722,2019-11-27,FGS_WSC,HOMATHKO HOMA3,1.07,AV,Results,Technicianm
+1665096,2019-12-05,FGS_B,HOMATHKO HOMA3,0.75,AV,Results,Technicianm
+1665096,2019-12-05,FGS_B,HOMATHKO HOMA3,0.96,AV,Results,Technicianm
+2253825,2019-12-10,FGS_WSC,68539 GAUGINGSTATION,7.11,NA,Results,Technicianm
+2253824,2019-12-10,FGS_WSC,69781 GAUGINGSTATION,7.32,NA,Results,Technicianm
+2253827,2019-12-11,FGS_WSC,73279 GAUGINGSTATION,2.2,NA,Results,Technicianm
+2253831,2020-01-06,FGS_WSC,5693 GAUGINGSTATION,1.92,NA,Results,Technicianm
+2253834,2020-01-07,FGS_WSC,6192 GAUGINGSTATION,1.49,NA,Results,Technicianm
+2253835,2020-01-07,FGS_WSC,6252 GAUGINGSTATION,2.42,NA,Results,Technicianm
+2253837,2020-01-09,FGS_WSC,HOMATHKO HOMA3,1.02,NA,Results,Technicianm
+2254137,2020-01-10,FGS,626 OUTLET,5.67,NA,Results,Raw
+2254136,2020-01-10,FGS,703 OUTLET,6.73,NA,Results,Raw
+2254135,2020-01-10,FGS,844 OUTLET,8.36,NA,Results,Raw
+2254134,2020-01-10,FGS,1015 OUTLET,12.65,NA,Results,Raw
+2826183,2020-01-14,FGS_WSC,59377 GAUGINGSTATION,1.93,NA,Results,Technicianm
+3400886,2020-01-14,FGS_WSC,59376 GAUGINGSTATION,1.64,NA,Results,Technicianm
+2826186,2020-01-15,FGS_WSC,59637 GAUGINGSTATION,0.64,NA,Results,Technicianm
+2825661,2020-01-21,FGS_B,HOMATHKO HOMA3,1.18,NA,Results,Technicianm
+2825661,2020-01-21,FGS_B,HOMATHKO HOMA3,1.27,NA,Results,Technicianm
+3402314,2020-02-08,FGS,626 OUTLET,5.72,NA,Results,Raw
+3402315,2020-02-08,FGS,703 OUTLET,5.04,NA,Results,Raw
+3402316,2020-02-08,FGS,844 OUTLET,8.44,NA,Results,Raw
+3402317,2020-02-08,FGS,1015 OUTLET,10.27,NA,Results,Raw
+3404057,2020-02-18,FGS_B,HOMATHKO HOMA3,0.94,NA,Results,Technicianm
+3404057,2020-02-18,FGS_B,HOMATHKO HOMA3,0.85,NA,Results,Technicianm

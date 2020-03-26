@@ -1,0 +1,132 @@
+---
+title: "FGS QAQC update March 2020"
+author: "Isabelle"
+date: "3/23/2020"
+output: html_document
+---
+# INTRODUCTION
+
+The purpose of this document is to review the state of QAQC for the FGS surveys.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(devtools)
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+library(gridExtra)
+library(here)
+
+DO13C_FGS_data<-read_csv(here("data","DOC13C.csv"))
+
+DOC_FGS_data<-read_csv(here("data","DOC.csv"))
+
+O18_FGS_data<-read_csv(here("data","O18.csv"))
+
+Nut_FGS_data<-read_csv(here("data","Nut.csv"))
+
+TSS_FGS_data<-read_csv(here("data","TSS.csv"))
+```
+
+# State of DO13C data
+
+All of the "NA" flags for end of 2019 and beginning of 2020 are related to results that have not yet been QC'd, therefore, they had no flags attached before being exported to R.
+
+"Error" quality levels are all from 2015 missing values. 
+"Raw" quality levels are from recent FGS surveys that have not been QC'd by the oceanography team yet.
+
+```{r echo=FALSE, warning=FALSE}
+
+DO13C_qualitylevel<-ggplot(DO13C_FGS_data, aes(x=date, y=ppm_c_doc)) + geom_point(aes(shape=quality_level, color=ppm_c_doc_flag)) + theme_linedraw()
+
+plot(DO13C_qualitylevel)
+
+DO13C_range_survey<-ggplot(DO13C_FGS_data, aes(x=date, y=ppm_c_doc)) + theme_linedraw() + geom_point(aes(color=ppm_c_doc_flag)) + facet_grid(survey~.)
+
+plot(DO13C_range_survey)
+
+DO13C_range_rivers<-ggplot(subset(DO13C_FGS_data, survey == "FGS"), aes(x=date, y=ppm_c_doc)) + geom_point(aes(colour=site_id)) + theme_linedraw()
+plot(DO13C_range_rivers)
+
+```
+
+# State of DOC data
+
+All "Raw" quality levels are from the March 2019 FGS survey. The oceanography team has been emailed to resolved the situation.
+
+Double surveys (FGS and FGS_R) are appropriate as the sample collected was for both surveys instead of collecting 2 samples on the same day. I will fix the order of the surveys so they plot in the same grid.
+
+All "NA" flags are actually results that don't have any flags associated to them yet.
+
+```{r echo=FALSE, warning=FALSE}
+
+DOC_qualitylevel<-ggplot(DOC_FGS_data, aes(x=date, y=doc)) + geom_point(aes(shape=quality_level, color=doc_flag)) + theme_linedraw()
+
+plot(DOC_qualitylevel)
+
+DOC_range_survey<-ggplot(DOC_FGS_data, aes(x=date, y=doc)) + theme_linedraw() + geom_point(aes(color=doc_flag)) + facet_grid(survey~.)
+
+plot(DOC_range_survey)
+
+DOC_range_rivers<-ggplot(subset(DOC_FGS_data, survey == "FGS"), aes(x=date, y=doc)) + geom_point(aes(colour=site_id)) + theme_linedraw()
+
+plot(DOC_range_rivers)
+
+```
+
+# State of O18 data
+
+"Raw" quality levels are from recent FGS surveys that have not been QC'd by the oceanography team yet.
+
+All "NA" flags are from results that hasn't been flagged yet.
+```{r echo=FALSE, warning=FALSE}
+
+O18_qualitylevel<-ggplot(O18_FGS_data, aes(x=date, y=delta_o18)) + geom_point(aes(shape=quality_level, color=delta_o18_flag)) + theme_linedraw()
+
+plot(O18_qualitylevel)
+
+h2_quality_level<-ggplot(O18_FGS_data, aes(x=date, y=delta_h2)) + geom_point(aes(shape=quality_level, color=delta_h2_flag)) + theme_linedraw()
+
+plot(h2_quality_level)
+
+O18vsH2_GMWL<-ggplot(O18_FGS_data,aes(delta_o18,delta_h2,colour=survey))+geom_point()+theme_linedraw()+stat_function(fun=function(x)8*x+10)
+
+plot(O18vsH2_GMWL)
+```
+
+# State of nutrients data
+
+The "raw" quality levels are from 
+
+```{r echo=FALSE, warning=FALSE}
+
+Nut_quality_level<-ggplot(Nut_FGS_data)+geom_bar(aes(date,fill=quality_level))+ facet_grid(survey~.)
+
+
+Nut_quality_level
+
+NH4_qualitylevel<-ggplot(Nut_FGS_data, aes(x=date, y=nh4_)) + geom_point(aes(shape=quality_level, color=nh4__flag)) + theme_linedraw()+ facet_grid(survey~.)
+NH4_qualitylevel
+
+```
+# State of TSS data
+
+All "NA" flags are from results that hasn't been flagged yet.
+
+The "raw" quality levels are all from recent (October 2019 to February 2020) FGS samples that have not been QC'd by the oceanographers yet.
+
+```{r echo=FALSE, warning=FALSE}
+
+TSS_qualitylevel<-ggplot(TSS_FGS_data, aes(x=date, y=tss_mg_l)) + geom_point(aes(shape=quality_level, color=tss_flag)) + theme_linedraw()
+
+TSS_qualitylevel
+
+TSS_range_survey<-ggplot(TSS_FGS_data, aes(x=date, y=tss_mg_l)) + theme_linedraw() + geom_point(aes(color=tss_flag)) + facet_grid(survey~.)
+
+TSS_range_survey
+
+TSS_range_rivers<-ggplot(subset(TSS_FGS_data, survey == "FGS"), aes(x=date, y=tss_mg_l)) + geom_point(aes(colour=site_id)) + theme_linedraw()
+
+plot(TSS_range_rivers)
+```
+
