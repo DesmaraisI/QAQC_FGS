@@ -186,13 +186,13 @@ event_pk,date,survey,site_id,ppm_c_doc,ppm_c_doc_flag,row_flag,quality_level
 2539,2015-08-05,FGS,819 OUTLET,20.66,AV,Results,Principal Investigator
 2540,2015-08-05,FGS,844 OUTLET,20.71,AV,Results,Principal Investigator
 2541,2015-08-05,FGS,1015 OUTLET,8.34,AV,Results,Principal Investigator
-2926,2015-08-26,FGS,626 OUTLET,NA,MV,Not Available,Error
-2927,2015-08-26,FGS,693 OUTLET,NA,MV,Not Available,Error
-2928,2015-08-26,FGS,703 OUTLET,NA,MV,Not Available,Error
-2929,2015-08-26,FGS,708 OUTLET,NA,MV,Not Available,Error
-2930,2015-08-26,FGS,819 OUTLET,NA,MV,Not Available,Error
-2931,2015-08-26,FGS,844 OUTLET,NA,MV,Not Available,Error
-2932,2015-08-26,FGS,1015 OUTLET,NA,MV,Not Available,Error
+2926,2015-08-26,FGS,626 OUTLET,NA,MV,Not Available,Principal Investigator
+2927,2015-08-26,FGS,693 OUTLET,NA,MV,Not Available,Principal Investigator
+2928,2015-08-26,FGS,703 OUTLET,NA,MV,Not Available,Principal Investigator
+2929,2015-08-26,FGS,708 OUTLET,NA,MV,Not Available,Principal Investigator
+2930,2015-08-26,FGS,819 OUTLET,NA,MV,Not Available,Principal Investigator
+2931,2015-08-26,FGS,844 OUTLET,NA,MV,Not Available,Principal Investigator
+2932,2015-08-26,FGS,1015 OUTLET,NA,MV,Not Available,Principal Investigator
 3352,2015-09-16,FGS,626 OUTLET,15.41,AV,Results,Principal Investigator
 3353,2015-09-16,FGS,693 OUTLET,11.55,AV,Results,Principal Investigator
 3354,2015-09-16,FGS,703 OUTLET,6.26,AV,Results,Principal Investigator
@@ -217,7 +217,7 @@ event_pk,date,survey,site_id,ppm_c_doc,ppm_c_doc_flag,row_flag,quality_level
 16893,2015-12-01,FGS,626 OUTLET,6.68,AV,Results,Principal Investigator
 16894,2015-12-01,FGS,693 OUTLET,7.96,AV,Results,Principal Investigator
 16895,2015-12-01,FGS,703 OUTLET,3.97,AV,Results,Principal Investigator
-16896,2015-12-01,FGS,708 OUTLET,NA,MV,Not Available,Error
+16896,2015-12-01,FGS,708 OUTLET,NA,MV,Not Available,Principal Investigator
 16897,2015-12-01,FGS,819 OUTLET,10.33,AV,Results,Principal Investigator
 16898,2015-12-01,FGS,844 OUTLET,9.64,AV,Results,Principal Investigator
 16899,2015-12-01,FGS,1015 OUTLET,13.57,AV,Results,Principal Investigator
@@ -1026,8 +1026,8 @@ event_pk,date,survey,site_id,ppm_c_doc,ppm_c_doc_flag,row_flag,quality_level
 472419,2019-02-17,FGS,844 OUTLET,8.53,AV,Results,Principal Investigator
 472420,2019-02-17,FGS,1015 OUTLET,11.31,AV,Results,Principal Investigator
 472415,2019-02-17,"FGS,FGS_R",703 OUTLET,3.73,AV,Results,Principal Investigator
-472417,2019-02-17,"FGS,FGS_R",708 OUTLET,8.1,AV,Results,Principal Investigator
 472418,2019-02-17,"FGS,FGS_R",819 OUTLET,8.81,AV,Results,Principal Investigator
+472417,2019-02-17,"FGS_R,FGS",708 OUTLET,8.1,AV,Results,Principal Investigator
 471555,2019-02-18,FGS_R,20741 OUTLET,1.23,AV,Results,Technicianm
 471553,2019-02-18,FGS_R,20722 OUTLET,3.67,AV,Results,Technicianm
 471557,2019-02-18,FGS_R,WANNOCK WR01,1.36,SVC,Results,Technicianm

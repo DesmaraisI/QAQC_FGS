@@ -59,6 +59,32 @@ TSS_FGS_data<-TSS_FGS %>%
 
 write_csv(TSS_FGS_data,here("data","TSS.csv"))
 
+
+#POM data
+POM_FGSendpoint<- sprintf("%s/%s", client$api_root,'eims/views/output/poms?survey%26%26{"FGS"%2C"FGS_B"%2C"FGS_F"%2C"FGS_KN"%2C"FGS_R"%2C"FGS_WSC"%2C"FGS_Y"}&limit=-1')
+
+POM_FGS<-client$get(POM_FGSendpoint)
+
+POM_FGS_data<-POM_FGS %>% 
+  select(event_pk,date,survey,site_id,acidified,hakai_id,ug_n,ug_c,c_flag,n_flag,row_flag,quality_level)
+
+write_csv(POM_FGS_data,here("data","POM.csv"))
+
+
+
+#Cations/Alkalinity data
+Akan_Cat_FGSendpoint<- sprintf("%s/%s", client$api_root,'eims/views/output/akan_cat_ph?survey%26%26{"FGS"%2C"FGS_B"%2C"FGS_F"%2C"FGS_KN"%2C"FGS_R"%2C"FGS_WSC"%2C"FGS_Y"}&limit=-1')
+
+Akan_Cat_data<-client$get(Akan_Cat_FGSendpoint)
+
+Akan_Cat_FGS_data<-Akan_Cat_data %>% 
+  select(event_pk,date,survey,site_id,acidity,alkh,ph,s,so4,mg,zn,na,al,ca,cl,fe,b,f,k,si,cu,sr,acidity_flag,alkh_flag,ph_flag,s_flag,so4_flag,mg_flag,zn_flag,na_flag,al_flag,ca_flag,cl_flag,fe_flag,b_flag,f_flag,k_flag,si_flag,cu_flag,sr_flag,row_flag,quality_level)
+
+write_csv(Akan_Cat_FGS_data,here("data","Akan_Cat.csv"))
+
+
+
+#Possible useful older scripts
 ggplot(data)+geom_point(aes(Date,TN))
 ggplot(data)+geom_point(aes(x=Date,y=TN,color=Survey))
 ggplot(data)+geom_point(aes(x=Date,y=TN,shape=Survey))
