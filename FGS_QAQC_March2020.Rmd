@@ -1,23 +1,42 @@
 ---
-title: "FGS QAQC update March 2020"
+title: "FGS QAQC update April 2020"
 author: "Isabelle"
-date: "3/23/2020"
+date: "4/27/2020"
 output: 
   html_document: 
-    keep_md: yes
+    theme: cosmo
+   code_folding: show
+   toc: true
+   toc_float: true
+   number_sections: true
 ---
 # INTRODUCTION
 
 The purpose of this document is to review the state of QAQC for the FGS surveys.
 
+Updates since March 23, 2020 report are:
+1) Cleaned up results from before 2014-07-01:
+    - Added missing Potassium results
+    - Added "BDL,SVC" flags for Potasium (P) and Boron (B) for an empty cells from lab results spreadsheet. We are 95% certain that the results should be Below detection limit but still a small chance that they have not been analyzed.
+    - Changes all "BDL" flags for "NA" flags in Bromine (Br) has it was never analyzed.
+    - Added "NA" flags for all instances where the sample was not analyzed for the specific Cation/Akan.
+    - Removed all negative and below detection values in AlkH and added the flag "BDL".
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+2) Cleaned up the nutrients results and flags:
+    - Re-assigned PO4 flags (in the FGS survey only, several "AV" flags were on the sample's line corresponding to the UA results with an associated "NA" flag on the UBC line)
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, error = FALSE)
 library(devtools)
 library(tidyverse)
 library(ggplot2)
 library(lubridate)
 library(gridExtra)
 library(here)
+library(plotly)
+
+theme_set(theme_grey())
+
 
 DO13C_FGS_data<-read_csv(here("data","DOC13C.csv"))
 
@@ -26,6 +45,7 @@ DOC_FGS_data<-read_csv(here("data","DOC.csv"))
 O18_FGS_data<-read_csv(here("data","O18.csv"))
 
 Nut_FGS_data<-read_csv(here("data","Nut.csv"))
+Nut_FGS_data_null<-read_csv(here("data","Nut_null.csv"))
 
 TSS_FGS_data<-read_csv(here("data","TSS.csv"))
 
@@ -47,7 +67,7 @@ All of the "NA" flags for end of 2019 and beginning of 2020 are related to resul
 
 ```{r warning=FALSE}
 
-DO13C_qualitylevel<-ggplot(DO13C_FGS_data, aes(x=date, y=ppm_c_doc)) + geom_point(aes(shape=quality_level, color=ppm_c_doc_flag)) + theme_linedraw()
+DO13C_qualitylevel<-ggplot(DO13C_FGS_data, aes(x=date, y=ppm_c_doc)) + geom_point(aes(shape=quality_level, color=ppm_c_doc_flag)) + theme_linedraw()+hakademic_theme()
 
 plot(DO13C_qualitylevel)
 
@@ -109,11 +129,15 @@ The "raw" quality levels (n=2) are from 2016 Wannock samples. The oceanographers
 
 ```{r warning=FALSE}
 #Overall review of the counts of Quality level of all nutrient samples
-Nut_qualitylevel<-ggplot(Nut_FGS_data,aes(x=quality_level,fill=survey))+geom_bar()
+Nut_qualitylevel<-ggplot(Nut_FGS_data_null,aes(x=quality_level,fill=survey))+geom_bar()
 Nut_qualitylevel
 
+#Review of flags on main nutrients analysis
+Nut_flag<-ggplot(Nut_FGS_data,aes(x=))
+
 #NH4 
-NH4_qualitylevel<-ggplot(Nut_FGS_data, aes(x=date, y=nh4_)) + geom_point(aes(shape=quality_level, color=nh4__flag)) + theme_linedraw()+ facet_grid(survey~.)
+NH4_qualitylevel<-ggplot(Nut_FGS_data, aes(x=date, y=nh4_)) + geom_point(aes(shape=quality_level, color=nh4__flag)) + theme_linedraw()+
+  facet_grid(survey~.)
 NH4_qualitylevel
 
 #TP
@@ -176,7 +200,7 @@ POM_c_qualitylevel
 
 ```
 
-#State of Akan and Cations data
+# State of Akan and Cations data
 
 Some "Raw" samples were from a 2016 FG survey. The oceanographers have been informed and will work through it. The other "Raw" samples are from recent FGS surveys not yet QC'd.
 

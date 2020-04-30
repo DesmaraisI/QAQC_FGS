@@ -40,6 +40,8 @@ O18_FGS_data<-O18_FGS %>%
 write_csv(O18_FGS_data,here("data","O18.csv"))
 
 #Nutrients data
+
+##Downloaded from Hakai Api
 Nut_FGSendpoint<- sprintf("%s/%s", client$api_root,'eims/views/output/nutrients?survey%26%26{"FGS"%2C"FGS_B"%2C"FGS_R"%2C"FGS_Y"%2C"FGS_KN"}&limit=-1')
 
 Nut_FGS<-client$get(Nut_FGSendpoint)
@@ -48,6 +50,15 @@ Nut_FGS_data<-Nut_FGS %>%
   select(event_pk,date,survey,site_id,nh4_,tp,tdp,tn,tdn,no2_no3_um,po4,sio2,nh4__flag,tp_flag,tdp_flag,tn_flag,tdn_flag,no2_no3_flag,po4_flag,sio2_flag,row_flag,quality_level)
 
 write_csv(Nut_FGS_data,here("data","Nut.csv"))
+
+##Read from a local computer csv file
+NUT_FGS_null<-read.csv("data/Nut_csv.csv", col_types = cols(Date = col_date(format = "%m/%d/%Y")),na.strings = "NULL")
+
+Nut_FGS_data_null<-NUT_FGS_null %>% 
+  select(event_pk,date,survey,site_id,nh4_,tp,tdp,tn,tdn,no2_no3_um,po4,sio2,nh4__flag,tp_flag,tdp_flag,
+         tn_flag,tdn_flag,no2_no3_flag,po4_flag,sio2_flag,analyzing_lab,row_flag,quality_level)
+
+write_csv(Nut_FGS_data_null,here("data","Nut_null.csv"))
 
 #TSS data
 TSS_FGSendpoint<- sprintf("%s/%s", client$api_root,'eims/views/output/ts?survey%26%26{"FGS"%2C"FGS_B"%2C"FGS_KN"%2C"FGS_R"%2C"FGS_Y"}&limit=-1')
